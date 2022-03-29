@@ -42,6 +42,9 @@ http://50.7.34.155:2200/BR/Star_Hits_1_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCnd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXAbs0jsNzc82QVFGi9exEjWOVVqsaENmpg&usqp=CAU" group-title="DOCUMENTÁRIO", NETGEO WILD
 http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD
+http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
 http://50.7.34.155:2200/BR/Viva_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 
@@ -207,3 +210,5 @@ http://cdn.redtraffic.net/anal.m3u8
 http://cdn.redtraffic.net/bigass.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ADULTOS 
 http://cdn.redtraffic.net/bigdick.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",SBT
+http://95.141.37.245:8081/loadbalance/sbt1/chunks.m3u8?nimblesessionid=7456841&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIyIDExOjEwOjUxIEFNJmhhc2hfdmFsdWU9NVQ1WkNWKzlFZ2dKOGltUjZFZUhwdz09JnZhbGlkbWludXRlcz0yMA==
