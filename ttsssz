@@ -212,3 +212,5 @@ http://cdn.redtraffic.net/bigass.m3u8
 http://cdn.redtraffic.net/bigdick.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT
 http://95.141.37.245:8081/loadbalance/sbt1/chunks.m3u8?nimblesessionid=7456841&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIyIDExOjEwOjUxIEFNJmhhc2hfdmFsdWU9NVQ1WkNWKzlFZ2dKOGltUjZFZUhwdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="" group-title="",TV N
+http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
