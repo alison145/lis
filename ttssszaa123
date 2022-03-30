@@ -190,3 +190,5 @@ http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCX
 http://95.141.37.245:8081/loadbalance/viva/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6Mzc6NDMgQU0maGFzaF92YWx1ZT1zVkM2VktWbzZ5NWM4YmZNTnN0akx3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",V3
 http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7488610&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6NDA6MzEgQU0maGFzaF92YWx1ZT1kaWt6ZjlIOTlWcmxob2FkTHhXZDVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="",D
+https://live.xvideosporn.me/p3p/discoverych/p2p/discoverych_720p/l_143353_10318300_158.ts?nimblesessionid=1070312&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDQ6MTA6MDIgQU0maGFzaF92YWx1ZT0zNnV1dXhEYmpIeHRzQjU4N3lyRFdBPT0mdmFsaWRtaW51dGVzPTkw
