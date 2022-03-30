@@ -192,3 +192,11 @@ http://95.141.37.245:8081/loadbalance/viva/playlist.m3u8?wmsAuthSign=c2VydmVyX3R
 http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7488610&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6NDA6MzEgQU0maGFzaF92YWx1ZT1kaWt6ZjlIOTlWcmxob2FkTHhXZDVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",D
 https://live.xvideosporn.me/p3p/discoverych/p2p/discoverych_720p/l_143353_10318300_158.ts?nimblesessionid=1070312&wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDQ6MTA6MDIgQU0maGFzaF92YWx1ZT0zNnV1dXhEYmpIeHRzQjU4N3lyRFdBPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="" group-title="",d1
+https://m3u9.ml/a2/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=kCnmP1guF67E5SK5hf-cdw&3U1G7qaTxrPbalZnEx=1648641193
+#EXTINF:-1 tvg-logo="" group-title="",d2
+https://m3u9.ml/a2/hls1/discovery-bk2.m3u8?mu3zAQc9HC3GbwJq=5qD6osshB9_IWxGntx0OUQ&3U1G7qaTxrPbalZnEx=1648634769
+#EXTINF:-1 tvg-logo="" group-title="",p
+https://m3u9.tk/a/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6MDg6NDUgQU0maGFzaF92YWx1ZT1oVDQ1Nk9VWXlDeVp2MEhGN2EzOUJBPT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&attachment=true
+#EXTINF:-1 tvg-logo="" group-title="",tcp
+https://m3u9.tk/a/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDEyOjQ3OjQ2IEFNJmhhc2hfdmFsdWU9ZXp6R3g3b3FPQVdFNGFOTG9NTHRuUT09JnZhbGlkbWludXRlcz00ODAmaWQ9NQ==&attachment=true
