@@ -114,6 +114,8 @@ http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
+https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",HBO
@@ -200,3 +202,5 @@ https://m3u9.ml/a2/hls1/discovery-bk2.m3u8?mu3zAQc9HC3GbwJq=5qD6osshB9_IWxGntx0O
 https://m3u9.tk/a/hls1/paramount.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDM6MDg6NDUgQU0maGFzaF92YWx1ZT1oVDQ1Nk9VWXlDeVp2MEhGN2EzOUJBPT0mdmFsaWRtaW51dGVzPTQ4MCZpZD01&attachment=true
 #EXTINF:-1 tvg-logo="" group-title="",tcp
 https://m3u9.tk/a/hls1/telecinepipoca.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8zMC8yMDIyIDEyOjQ3OjQ2IEFNJmhhc2hfdmFsdWU9ZXp6R3g3b3FPQVdFNGFOTG9NTHRuUT09JnZhbGlkbWludXRlcz00ODAmaWQ9NQ==&attachment=true
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
+https://live.xvideosporn.me/p2p/tlcpipoca/chunks.m3u8?nimblesessionid=1107610&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDU6NTA6NTUgQU0maGFzaF92YWx1ZT14M25IRS9wUVVDQmJ1VmJkWTV0eHdRPT0mdmFsaWRtaW51dGVzPTkw
