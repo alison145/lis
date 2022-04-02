@@ -22,8 +22,8 @@ https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BOMBERANG 
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=7436967&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDg6MDM6MjUgUE0maGFzaF92YWx1ZT1zTWZTSUppSmZEUDBzOFY1YmRsV0lBPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="" group-title="",VIDA 
-http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7440942&wmsAuthSign=c2VydmVyX3RpbWU9My8yOC8yMDIyIDEwOjE1OjUwIFBNJmhhc2hfdmFsdWU9UjRmekl5cjM1YnpaaTNGSHBtQW9Ddz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:-1 tvg-logo="" group-title="",VIVA 
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="TV ABERTA", SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1817693431_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
@@ -210,3 +210,9 @@ https://m3u9.ml/a2/hls1/nickjr.m3u8?mu3zAQc9HC3GbwJq=MH8plCC0ctpRSia8YjmB8w&3U1G
 https://assistirtv.xyz/paramount/video.m3u8?token=45a5cd59985b54cccbd80f57428456882f71a30c-425b691399d4871578ebe9024f38ee12-1648779724-1648776124&remote=172.68.177.130
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
 https://assistirtv.xyz/discovery-channel/video.m3u8?token=b63207202c526b9a999c207cf2987dcef0e71bc4-e5cd0465d361f7361f4dc18253579289-1648866571-1648862971&remote=172.68.177.136
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
+http://50.7.34.155:2200/BR/TNT_Series_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
+http://50.7.34.155:2201/BR/Cinemax_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
