@@ -87,7 +87,9 @@ http://50.7.34.155:2201/BR/OFF_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXp
 http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",CURTA
 http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="" group-title="",TRUTV
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
+http://pfsv.io:80/07720253/51853/289
+#EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
 http://pfsv.io:80/07720253/51853/350
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD z
 http://pfsv.io:80/07720253/51853/179
@@ -101,8 +103,8 @@ http://stla-server4.b-cdn.net:80/live/animalplanet/chunks.m3u8?token=1656036771_
 http://acsc.cc:80/0672648180/fireurl.co/71776.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET max
 http://stla-server4.b-cdn.net:80/live/animalplanet/chunks.m3u8?token=1656223123_fc10bea6fa72f3e480ec99fb0dbe36429a0e6097&token2=1656223123_ae3d9c80e7a30e0481cc49d577309a42c7c7103f
-#EXTINF:-1 tvg-logo="" group-title="",NETGEO 
-http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",NETGEO tv on Brasil 
+http://pfsv.io:80/07720253/51853/176
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO 
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC z
@@ -133,8 +135,8 @@ http://210.210.155.35:80/qwr9ew/s/s38/index.m3u8
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
 http://stla-server4.b-cdn.net:80/live/discoverychannel/chunks.m3u8?token=1656050768_8b9983d07e7dcbf33a014db4ecb0e3981414737f
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 0
-http://pfsv.io:80/07720253/51853/196
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY tv on Brasil 
+http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
 http://190.15.32.30:80/2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE MAX
@@ -183,6 +185,8 @@ http://190.15.32.30:80/10/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD MAX 
 http://187.85.237.32:8825/ipvt_007
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI TV on Brasil 
+http://pfsv.io:80/07720253/51853/189
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
 http://190.15.32.30:80/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
@@ -482,7 +486,9 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c18000
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/47?token=QkRfV0JaQV5ABgEACAMAUA0DBFQDAlIIBQAIBA8AAAkLAwIOVwtSAVFBSBJDQRNQVF1uWVcXCQwFTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYCDgpPGxFRVUMDG1UGBgEHQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1ZWU0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClNTQB4=
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids z
 http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=7959782&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIyIDE6Mjk6NDUgQU0maGFzaF92YWx1ZT1TOFVCbWIxYTRLQm95Nk1aV25oRi9nPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids 
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY KIDS CAST
+http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/140
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/43?token=QkRfV0JaQV5AVVJUVQxTUVcAVAkDA1BeAgIOVwoIA1gKUFNTBwtWVQBBSBJDQRNQVF1uWVcXCQwBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYBAABPGxFRVUMDG1cPBQMFQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1pSUkFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFBVtdQB4=
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL o
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=8148914&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6Mjg6NDUgQU0maGFzaF92YWx1ZT1UWGdwOEtuQlVtQWJRMEZGQS9QcmN3PT0mdmFsaWRtaW51dGVzPTIw
