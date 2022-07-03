@@ -1,11 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://51.222.155.102:80/btv5d7e4ffffe967abf4f4488/BR%3A%20Viva%20FHD
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS",TOONCAST
+http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=10578841&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDY6MDc6MzEgQU0maGFzaF92YWx1ZT03MjB6MmZFbHQ2UFFvd1VZNWRteUVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
 http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
 http://187.85.237.31:8825/ipvt_002
-#EXTINF:-1 tvg-logo="" group-title="",VIVA 
+#EXTINF:-1 tvg-logo="" group-title="",VIVA olha
+http://212.102.60.39:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=RED_V3_4oAMF88ELiuSxhb04Ig==,1655729991.8617422156
+#EXTINF:-1 tvg-logo="" group-title="",VIVA
 http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -95,6 +97,7 @@ http://pfsv.io:80/07720253/51853/350
 http://pfsv.io:80/07720253/51853/179
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
 http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
+http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX
 http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD s TV
@@ -494,8 +497,8 @@ http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/43?
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=8148914&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6Mjg6NDUgQU0maGFzaF92YWx1ZT1UWGdwOEtuQlVtQWJRMEZGQS9QcmN3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://189.16.194.19:8010/02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
-http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/48?token=QkRfV0JaQV5AAQcHCQJRAAJUBVNVDVdeBQEPVgABAlgKAwRSBwIABQRBSBJDQRNQVF1uWVcXCQwKTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQEHDQVPGxFRVUMDG1QOAgUCQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1BcVUFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClJVQB4=
+#EXTINF:-1 tvg-logo="" group-title="",BLOBINHO tv on
+http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=10682245&wmsAuthSign=c2VydmVyX3RpbWU9Ni8zMC8yMDIyIDY6MDg6MTcgQU0maGFzaF92YWx1ZT1NdjBpRHc2MVVtM2VYWWZkb2RxeVNnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",BLOBINHO 
 http://190.15.32.30:80/8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TOON
@@ -588,3 +591,5 @@ http://shd07.lionflixapp.xyz/token/SHD7/158762/1-2.mp4
 http://shd07.lionflixapp.xyz/token/SHD7/158762/1x3.mp4
 #EXTINF:-1 tvg-logo="" group-title="",DOUTOR ESTRANHO E ARQUIMERO DA LOUCURA
 http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/453395.mp4
+#EXTINF:-1 tvg-logo="" group-title="",PARQUE DOS DINOSSAUROS MUNDO
+http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/507086.mp4
