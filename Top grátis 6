@@ -1,14 +1,20 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS",TOONCAST
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=10578841&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDY6MDc6MzEgQU0maGFzaF92YWx1ZT03MjB6MmZFbHQ2UFFvd1VZNWRteUVRPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA 
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=10866874&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMTI6MDI6MjAgQU0maGFzaF92YWx1ZT12NHVUakJ6WW9LV3hrbjI0MHhpcGd3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=10866702&wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgMTE6NTg6NDYgUE0maGFzaF92YWx1ZT1lQU05UmhYZjkxY2dGQlh6K3JxNDNnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=10863782&wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgMTA6NTg6MTEgUE0maGFzaF92YWx1ZT1vZU5HVzNvZ2RVaVh5R3NhVHlkWjN3PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
 http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="",VIVA HD
 http://187.85.237.31:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",VIVA olha
 http://212.102.60.39:2200/BR/Viva_HD-br/tracks-v1a1/mono.m3u8?token=RED_V3_4oAMF88ELiuSxhb04Ig==,1655729991.8617422156
 #EXTINF:-1 tvg-logo="" group-title="",VIVA
-http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=7584082&wmsAuthSign=c2VydmVyX3RpbWU9NC8yLzIwMjIgMjoxMTo1MiBBTSZoYXNoX3ZhbHVlPWx4MndXS1k5UVJWd0o3aGltVHdzaHc9PSZ2YWxpZG1pbnV0ZXM9MjA=
+http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=10863782&wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjIgMTA6NTg6MTEgUE0maGFzaF92YWx1ZT1vZU5HVzNvZ2RVaVh5R3NhVHlkWjN3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
@@ -21,6 +27,8 @@ http://191.37.250.169:8801/live/NSC/720p.m3u8
 http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
 http://168.205.87.198:8555/live/aleixo/123456/70.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w643317548_b216000_sleng.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
 http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/1065
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PR
@@ -593,3 +601,18 @@ http://shd07.lionflixapp.xyz/token/SHD7/158762/1x3.mp4
 http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/453395.mp4
 #EXTINF:-1 tvg-logo="" group-title="",JURASSIC WOLD
 http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/507086.mp4
+#EXTINF:-1 tvg-logo="" group-title="",Miami 
+http://server.miamitvchannel.com:80/miamitv/smil:miamitvAPP1/chunklist_w1814734759_b1896000.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NARUTO http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f6df5a173d7340007c559f7/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",FILMES DE AÇÃO 
+http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",AXN SD
+http://187.85.237.8:8825/ipvt_005
+#EXTINF:-1 tvg-logo="" group-title="",AMC FHD
+http://45.232.196.7:5000/live/AMC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FX HD 
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",STAR CHANNEL 
+http://187.85.237.3:8220/ipvt_002
+#EXTINF:-1 tvg-logo="" group-title="",TNT FHD 
+http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
