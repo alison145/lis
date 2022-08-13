@@ -35,8 +35,8 @@ http://server.globalhd.org:80/babi.morosoli@gmail.com/babi.morosoli@gmail.com/10
 http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD 
 http://187.85.237.3:8220/ipvt_001
-#EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
-http://appcliente.com:8880/edu21/edu21/16716?checkedby
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO FHD
+http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM 
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
 #EXTINF:-1 tvg-logo="" group-title="",SBT 
