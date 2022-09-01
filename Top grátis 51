@@ -62,7 +62,9 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+http://tvvitoria.viacast.tv:80/livepl/tvvitoria_1_original.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
+http://45.232.196.7:5000/live/RECORDSPHD/720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
 https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/chunklist_w870723429.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8b/Logomarca_Record_2007.png" group-title="TV ABERTA", RECORD HD
@@ -76,7 +78,7 @@ https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
 http://170.82.200.35:80/band/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8
+http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
 http://168.205.87.198:8555/live/aleixo/123456/176.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
@@ -113,7 +115,7 @@ http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX 
 http://acsc.cc:80/0672648180/fireurl.co/71776.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", ANIMAL PLANET max
-http://stla-server4.b-cdn.net:80/live/animalplanet/chunks.m3u8?token=1656223123_fc10bea6fa72f3e480ec99fb0dbe36429a0e6097&token2=1656223123_ae3d9c80e7a30e0481cc49d577309a42c7c7103f
+http://stream.tudogrates.ml:8880/live/animalplanet/chunks.m3u8?token=1661394897_13d685b1f1f8b6ee6900f31eb0b1e7e8fc0a1508
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO tv on Brasil 
 http://pfsv.io:80/07720253/51853/176
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO 
@@ -203,14 +205,14 @@ http://tv.minhalista.me:80/live/luciano196/luciano196/37036.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
-http://pfsv.io:80/live/carlinhos01/carlinhos01/257.ts
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/combate_ac3478d6_4fb95fce705749d7da22d4bd31b5bbf89d0b8828/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_480p
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 EXTINF:-1 tvg-logo=""
 group-title="SPORT",COMBATE HD
-http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_kxiCuVcr9XvcEbXgX_480p.m3u8?session_id=DtNAcrQ3Wdff&dev_limit=1&auth_id=16804528_com.global.brasiltvweb&client_ip=37.165.114.37&app_ver=10101&user_id=16804528&app_id=com.global.brasiltvweb&rst_status=0&main_addr=http://vdsx.glletle1.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&dev_id=351563d3&expired=1649784367&token=73B4BC6E2ABB67EF6396AC05BD9996CF&media_code=m3_kxiCuVcr9XvcEbXgX_1080p
+http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR
 http://190.15.32.30:80/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STAR HD
@@ -228,8 +230,8 @@ http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBl
 http://suatela-server.b-cdn.net/live/megapix/chunks.m3u8?token=UanOltph9OiK8kyUlVldxwpNIIszg5cFiYBHqoySy-g&expires=1649862195
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX z
 http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?ROGERIOTORRES
-#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
-https://live.xvideosporn.me/p3p/megapix/p2p/megapix_480p/chunks.m3u8?nimblesessionid=1100613&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDIyIDE6MzU6MjMgQU0maGFzaF92YWx1ZT1uZVU0aWVWKzl1elNOdHpReEVSWWFBPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
+http://51.222.29.212:8089/btv2b2276e0209688fffe54ce/BR%3A%20MegaPix%20HD%20LEG
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
 http://190.15.32.30:80/50/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SPACE z
@@ -396,6 +398,8 @@ http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBl
 http://187.85.237.31:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
 http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://geo-aws.tvcast.xyz:80/hls/s:51.15.123.117/amcbrasil_b7f5113f_9adc13764434faacf632d48e149c7b8af0d28e34/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMC
 http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",AMC FHD
@@ -613,3 +617,8 @@ http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 http://187.85.237.3:8220/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",TNT FHD 
 http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PEQUENA 🧜‍♂️ 
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",ALIENÍGENAS DO PASSADO 
+#EXTINF:-1 tvg-logo="" group-title="",MULHER HUNK
+http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/9d4cf432a04d9279e0a98ea60d73231f/480p/v.mp4?token=a2FJYkEzajl1eE83eUJOaHZHM0VyZz09Ojq5bX5ZYJD60FRPSSmA1D8d
