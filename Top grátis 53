@@ -104,7 +104,7 @@ http://pfsv.io:80/07720253/51853/289
 #EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
 http://pfsv.io:80/07720253/51853/350
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD z
-http://pfsv.io:80/07720253/51853/179
+http://stream.tudogrates.ml:8880/live/animalplanet/chunks.m3u8?token=1662601689_6d4114315009ff67843ee50b101bded93d38e984
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
 http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
 http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
@@ -207,7 +207,7 @@ http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/combate_ac3478d6_4fb95fce705749d7da22d4bd31b5bbf89d0b8828/playlist.m3u8
+http://geo-aws.tvcast.xyz:80/hls/s:51.15.104.60/combate_ac3478d6_fdc791a87b47c7aa3e042fb1a8cf5454507a16c7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 EXTINF:-1 tvg-logo=""
@@ -622,3 +622,7 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ALIENÍGENAS DO PASSADO 
 #EXTINF:-1 tvg-logo="" group-title="",MULHER HUNK
 http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/9d4cf432a04d9279e0a98ea60d73231f/480p/v.mp4?token=a2FJYkEzajl1eE83eUJOaHZHM0VyZz09Ojq5bX5ZYJD60FRPSSmA1D8d
+#EXTINF:-1 tvg-logo="" group-title="",senhor dos aneis os aneis do poder 
+http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/b93b82ae81e91d2ffb64eda72f520b19/480p/v.mp4?token=MjRtZk1UcGxOb05vRWhYbUp3dE90dz09Ojoudiw6fgRge7q8x1%2FTLcUT
+#EXTINF:-1 tvg-logo="" group-title="",senhor dos aneis o aneis do poder
+http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/99a98a2f93552ad5c6991b33b0b56c59/480p/v.mp4?token=MjRtZk1UcGxOb05vRWhYbUp3dE90dz09Ojoudiw6fgRge7q8x1%2FTLcUT
