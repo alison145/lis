@@ -115,7 +115,7 @@ http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", ANIMAL PLANET MAX 
 http://acsc.cc:80/0672648180/fireurl.co/71776.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", ANIMAL PLANET max
-http://stream.tudogrates.ml:8880/live/animalplanet/chunks.m3u8?token=1661394897_13d685b1f1f8b6ee6900f31eb0b1e7e8fc0a1508
+http://acsc.cc:80/0672648180/fireurl.co/71776.ts
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO tv on Brasil 
 http://pfsv.io:80/07720253/51853/176
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO 
@@ -160,6 +160,8 @@ http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a6
 http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",Smith channel
 http://168.205.87.198:8555/live/aleixo/123456/173.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A&E
+http://axr.life:80/live/00006226/MF159357C/5189.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E HD
@@ -266,7 +268,10 @@ http://190.15.32.30:80/109/tracks-v1a1/mono.m3u8
 http://ms2.ddns.me:8802/live/FXHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TNT HD
+#EXTINF:-1 tvg-logo="" group-title="",TNT
+ HD
+http://170.82.200.38:8080/tnt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TNT
 http://ms4.ddns.me:8804/live/TNTHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
 http://cdn2.connectbr.com.br:80/TNT/tracks-v1a1/mono.m3u8
@@ -630,3 +635,5 @@ http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/99a
 http://fhd04.mflixhd.xyz:80/token/04/tt11866324.mp4
 #EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z ESPANHOL 
 https://vsd138.mycdn.me/hls/2640805956167.m3u8/sig/GYLfdzFwzAo/expires/1663015884156/srcIp/45.179.28.68/clientType/0/srcAg/CHROME_ANDROID/mid/5673784450631/2640805956167_high/index.m3u8?p
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
+https://x-animes.s3.filebase.com/episodes/uMw1-c6AcOIRnAcj0K2DQ.mp4
