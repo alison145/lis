@@ -550,25 +550,19 @@ https://contvanime-plex-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SPORTS TV
 https://cdn1.xvideosporn.me/p2p/sportv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjIgNjoyMzozMCBBTSZoYXNoX3ZhbHVlPVk4OFFCS3A3WUZYWE56dzRmMHMvZGc9PSZ2YWxpZG1pbnV0ZXM9OTA=
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 1
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/1.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/1.mp4
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 2
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/2.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/2.mp4
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 3
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/3.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/3.mp4
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 4
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/4.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/4.mp4
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 5
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/5.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/5.mp4
 #EXTINF:-1 tvg-logo="" group-title="",CAVALEIRO DA LUA 6
-http://barthon.06.s3.eu-central-1.wasabisys.com:80/online/thor/92749/1/dub/6.mp4
+http://authentic-video.cloud:80/suzan06.php?b=thor/92749/1/dub/6.mp4
 #EXTINF:-1 tvg-logo="" group-title="",Homem aranha 
 https://videos.negociosmarkeitng.com/file/Spxnet/f/Homem-Aranha%20-%20Sem%20Volta%20Para%20Casa%202022%201080p%20BluRay%20DUAL%205.1.mkv
-#EXTINF:-1 tvg-logo="" group-title="",MORBIUS
-http://authentic-video.cloud:80/suzan07.php?b=seguro/dub/526896.mp4
-#EXTINF:-1 tvg-logo="" group-title="",TOP GUN MAVERIK
-http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/361743.mp4
-#EXTINF:-1 tvg-logo="" group-title="",NAO CONFIE EM NINGUÉM A CAÇA CONTINUA DO REI DA CRIPTOMOEDA
-http://server-fhd03.lionflixapp.xyz:80/token/04/tt15479902.mp4
 #EXTINF:-1 tvg-logo="" group-title="",HALO
 http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x1.mp4
 #EXTINF:-1 tvg-logo="" group-title="",HALO
@@ -586,6 +580,8 @@ http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x7.mp4
 #EXTINF:-1 tvg-logo="" group-title="",HALO
 http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x8.mp4
 #EXTINF:-1 tvg-logo="" group-title="",HALO
+http://sub6-b.friday.bid:80/token:B6cSoCS2uSrDHPG6I/online/thor/52814/1/dub/9.mp4
+#EXTINF:-1 tvg-logo="" group-title="",HALO opções 2
 http://shd07.lionflixapp.xyz:80/token/SHD7/52814/1x9.mp4
 #EXTINF:-1 tvg-logo="" group-title="",PLANETA PRE ESTORICO
 http://shd07.lionflixapp.xyz:80/token/SHD7/95171/1x1.mp4
@@ -603,12 +599,6 @@ http://shd07.lionflixapp.xyz/token/SHD7/158762/1x1.mp4
 http://shd07.lionflixapp.xyz/token/SHD7/158762/1-2.mp4
 #EXTINF:-1 tvg-logo="" group-title="",3 TONELADAS
 http://shd07.lionflixapp.xyz/token/SHD7/158762/1x3.mp4
-#EXTINF:-1 tvg-logo="" group-title="",DOUTOR ESTRANHO E ARQUIMERO DA LOUCURA
-http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/453395.mp4
-#EXTINF:-1 tvg-logo="" group-title="",JURASSIC WOLD
-http://sub9.friday.bid:80/token:B6cSoCS2uSrDHPG6I/freak/dub/507086.mp4
-#EXTINF:-1 tvg-logo="" group-title="",Miami 
-http://server.miamitvchannel.com:80/miamitv/smil:miamitvAPP1/chunklist_w1814734759_b1896000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NARUTO http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f6df5a173d7340007c559f7/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=97826450-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=0ff24521-c218-4cf1-9a6e-e54f76667c9b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",FILMES DE AÇÃO 
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f120f41b7d403000783a6d6/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=860dbb8f-a84f-4853-b147-60207c674abf&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
@@ -624,20 +614,9 @@ http://187.85.237.3:8220/ipvt_002
 http://170.82.200.38:8080/tnt_series/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PEQUENA 🧜‍♂️ 
 https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",ALIENÍGENAS DO PASSADO 
-#EXTINF:-1 tvg-logo="" group-title="",MULHER HUNK
-http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/9d4cf432a04d9279e0a98ea60d73231f/480p/v.mp4?token=a2FJYkEzajl1eE83eUJOaHZHM0VyZz09Ojq5bX5ZYJD60FRPSSmA1D8d
 #EXTINF:-1 tvg-logo="" group-title="",senhor dos aneis os aneis do poder 
 http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/b93b82ae81e91d2ffb64eda72f520b19/480p/v.mp4?token=MjRtZk1UcGxOb05vRWhYbUp3dE90dz09Ojoudiw6fgRge7q8x1%2FTLcUT
 #EXTINF:-1 tvg-logo="" group-title="",senhor dos aneis o aneis do poder
 http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/99a98a2f93552ad5c6991b33b0b56c59/480p/v.mp4?token=MjRtZk1UcGxOb05vRWhYbUp3dE90dz09Ojoudiw6fgRge7q8x1%2FTLcUT
 #EXTINF:-1 tvg-logo="" group-title="",O PREDADOR A CAÇADA
 http://fhd04.mflixhd.xyz:80/token/04/tt11866324.mp4
-#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z ESPANHOL 
-https://vsd138.mycdn.me/hls/2640805956167.m3u8/sig/GYLfdzFwzAo/expires/1663015884156/srcIp/45.179.28.68/clientType/0/srcAg/CHROME_ANDROID/mid/5673784450631/2640805956167_high/index.m3u8?p
-#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
-https://x-animes.s3.filebase.com/episodes/uMw1-c6AcOIRnAcj0K2DQ.mp4
-#EXTINF:-1 tvg-logo="" group-title="",sexy Hot
-https://cdn2.embedflix.net/p2p/pornhub/chunks.m3u8?nimblesessionid=364823&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDE6NTk6MjkgQU0maGFzaF92YWx1ZT1hVUdmczd0UFdpdDRtbzR4Q1ZHcEJnPT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:-1 tvg-logo="" group-title="",STREET FIGHTER 2
-http://rr1---sn-bboxu-4aos.googlevideo.com:80/videoplayback?expire=1663511525&ei=hdcmY-6GDOSaobIPh4OVwAo&ip=45.179.28.252&id=o-AGek-YPtGz6R3xAOxu0RSm-kBG1vKpuSwl8ouVJRRTgD&itag=249&source=youtube&requiressl=yes&mh=TO&mm=31%2C29&mn=sn-bboxu-4aos%2Csn-bg07dnks&ms=au%2Crdu&mv=m&mvi=1&pl=24&gcr=br&initcwndbps=1002500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=222558895&dur=35074.981&lmt=1537715380096546&mt=1663489504&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANBGj_bWS__s95Np9-MEart1d7yTXYiTKv8H6EN8WAy9AiEA0Bnz4Ft6_ZAMsI6zfBaQbXijGPIXdAlD73gUj6MGBtQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgc-IoCc6zGX9V8b3kOdnoE2EBPMKG5tytmQvOTw394GICIFhExXqGkHLTTMABeWsorH0gjxEo5Sn9-yD9gUhacMCX
