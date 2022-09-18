@@ -104,7 +104,7 @@ http://pfsv.io:80/07720253/51853/289
 #EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
 http://pfsv.io:80/07720253/51853/350
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET HD z
-http://stream.tudogrates.ml:8880/live/animalplanet/chunks.m3u8?token=1662601689_6d4114315009ff67843ee50b101bded93d38e984
+https://live.embedflix.net/p2p/animalplanet/chunks.m3u8?nimblesessionid=627499&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDE6NDI6MTEgQU0maGFzaF92YWx1ZT1DMjNNaldLZlZWdmsvWkpZYWpuUGZnPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/animal-planet-logo.png" group-title="DOCUMENTÁRIO", ANIMAL PLANET SD
 http://189.16.194.19:8010/05/tracks-v1a1/mono.m3u8
 http://45.232.196.7:5000/live/ANIMALPLANET/720p.m3u8
@@ -134,8 +134,8 @@ http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCnd
 http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAldfUQcGDwBRUg1VUAECAVdVAlZSAAcFDgwIVgkXGUNHFxRXAllmXVYVDgdRCFBJExAQBBM+D1IbDxtTAgcAVg1BShAXXVRREA0FAFAJV1UGUVdRTUMWX10XA0cGDA1VFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRTUxBPFlpbR1lARB0SXEdzN0FNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcGUAxVRE8=
 #EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 7
-http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY HD
+https://live.embedflix.net/p2p/discoverych/chunks.m3u8?nimblesessionid=627887&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDE6NTY6MjEgQU0maGFzaF92YWx1ZT1GRU9lazI1djJWakVCcmFZRTVkOFVBPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGTcZumcFAmJNy6fV-8lABrYnOKjlYlOTHA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY HD
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY MAX 1
@@ -209,7 +209,7 @@ http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://geo-aws.tvcast.xyz:80/hls/s:51.15.104.60/combate_ac3478d6_fdc791a87b47c7aa3e042fb1a8cf5454507a16c7/playlist.m3u8
+https://live.embedflix.net/p2p/combate/chunks.m3u8?nimblesessionid=628114&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDI6MDM6MDkgQU0maGFzaF92YWx1ZT1aWEs5QjZnYkJ0SndpdERWWlpmQm1RPT0mdmFsaWRtaW51dGVzPTkw
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 EXTINF:-1 tvg-logo=""
@@ -637,3 +637,7 @@ http://fhd04.mflixhd.xyz:80/token/04/tt11866324.mp4
 https://vsd138.mycdn.me/hls/2640805956167.m3u8/sig/GYLfdzFwzAo/expires/1663015884156/srcIp/45.179.28.68/clientType/0/srcAg/CHROME_ANDROID/mid/5673784450631/2640805956167_high/index.m3u8?p
 #EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
 https://x-animes.s3.filebase.com/episodes/uMw1-c6AcOIRnAcj0K2DQ.mp4
+#EXTINF:-1 tvg-logo="" group-title="",sexy Hot
+https://cdn2.embedflix.net/p2p/pornhub/chunks.m3u8?nimblesessionid=364823&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDE6NTk6MjkgQU0maGFzaF92YWx1ZT1hVUdmczd0UFdpdDRtbzR4Q1ZHcEJnPT0mdmFsaWRtaW51dGVzPTkw
+#EXTINF:-1 tvg-logo="" group-title="",STREET FIGHTER 2
+http://rr1---sn-bboxu-4aos.googlevideo.com:80/videoplayback?expire=1663511525&ei=hdcmY-6GDOSaobIPh4OVwAo&ip=45.179.28.252&id=o-AGek-YPtGz6R3xAOxu0RSm-kBG1vKpuSwl8ouVJRRTgD&itag=249&source=youtube&requiressl=yes&mh=TO&mm=31%2C29&mn=sn-bboxu-4aos%2Csn-bg07dnks&ms=au%2Crdu&mv=m&mvi=1&pl=24&gcr=br&initcwndbps=1002500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=222558895&dur=35074.981&lmt=1537715380096546&mt=1663489504&fvip=4&keepalive=yes&fexp=24001373%2C24007246&c=ANDROID&rbqsm=fr&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cgcr%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhANBGj_bWS__s95Np9-MEart1d7yTXYiTKv8H6EN8WAy9AiEA0Bnz4Ft6_ZAMsI6zfBaQbXijGPIXdAlD73gUj6MGBtQ%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgc-IoCc6zGX9V8b3kOdnoE2EBPMKG5tytmQvOTw394GICIFhExXqGkHLTTMABeWsorH0gjxEo5Sn9-yD9gUhacMCX
