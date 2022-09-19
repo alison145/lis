@@ -204,7 +204,7 @@ http://187.85.237.32:8825/ipvt_007
 http://cdn.tvwebplay.top:80/live/teste123/teste123/238.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC
+#EXTINF:-1 tvg-logo="" group-title="",TLC 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
