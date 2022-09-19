@@ -39,7 +39,9 @@ http://187.85.237.3:8220/ipvt_001
 http://45.232.196.7:5000/live/GLOBOSPHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO PREMIUM 
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/88266
-#EXTINF:-1 tvg-logo="" group-title="",SBT 
+#EXTINF:-1 tvg-logo="" group-title="",SBT y
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663572258/ei/wcQnY_GmLoaQxQTakJewAw/ip/45.179.28.252/id/gOfOUEReKqs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/gcr/br/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAJGmUi46gyVvW70jOGE_HmLXY__S9vLwEtvPg30l-A3dAiA2XqE4dcxNkYI2G57yObczLJ0up0AUkORmBkYR4eBEog%3D%3D/file/index.m3u8
+ #EXTINF:-1 tvg-logo="" group-title="",SBT
 http://170.82.200.35:80/sbt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SBT HD
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/chunklist_w1955458263_b216000_sleng.m3u8
@@ -622,3 +624,9 @@ http://serie.zedofilme.com:80/videoplayback/b76d133f907565d51969bdb6f0a80ded/99a
 http://fhd04.mflixhd.xyz:80/token/04/tt11866324.mp4
 #EXTINF:-1 tvg-logo="" group-title="",MARSHALL E URSO 
 https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-logo="" group-title="",MATINHOS
+https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-logo="" group-title="",DINO E SUAS PREZEPADAS
+https://www.googleapis.com/drive/v3/files/1fipuLiCV6qgJDcXNa8a-Rccxkuy2BwO7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-logo="" group-title="",CAVERNA DO DRAGAO 24H
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663572649/ei/ScYnY-iOMvKh4dUPgKGm8AM/ip/45.179.28.252/id/V966lVbs6a0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOESZ2k5L2Pj8WekwJZA_5j5zxrp49M11vL7Om5OdaZCAiA5bPeG6HYydYVLovD5WuMHM44o-brAb3WVBrohNPNpGA%3D%3D/file/index.m3u8
