@@ -137,11 +137,11 @@ http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAld
 #EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY HD
-https://live.embedflix.net/p2p/discoverych/chunks.m3u8?nimblesessionid=627887&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOC8yMDIyIDE6NTY6MjEgQU0maGFzaF92YWx1ZT1GRU9lazI1djJWakVCcmFZRTVkOFVBPT0mdmFsaWRtaW51dGVzPTkw
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrGTcZumcFAmJNy6fV-8lABrYnOKjlYlOTHA&usqp=CAU" group-title="DOCUMENTÁRIO", DISCOVERY HD
+https://live.embedflix.net/p2p/discoverych/chunks.m3u8
+ group-title="DOCUMENTÁRIO", DISCOVERY HD
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY MAX 1
-http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
+http://cdn.tvwebplay.top:80/live/teste123/teste123/127.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY MAX 2
 http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
@@ -200,12 +200,12 @@ http://190.15.32.30:80/10/tracks-v1a1/mono.m3u8
 http://50.7.34.155:2200/BR/The_History_Channel_HD-br/index.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD MAX 
 http://187.85.237.32:8825/ipvt_007
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI TV on Brasil 
-http://pfsv.io:80/07720253/51853/189
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI
+http://cdn.tvwebplay.top:80/live/teste123/teste123/238.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC 
-http://tv.minhalista.me:80/live/luciano196/luciano196/37036.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC
+http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
@@ -626,13 +626,5 @@ http://fhd04.mflixhd.xyz:80/token/04/tt11866324.mp4
 https://www.googleapis.com/drive/v3/files/1gi6-7jLm_NC24AvCMRDm0pLxxRK64hfP?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 #EXTINF:-1 tvg-logo="" group-title="",MATINHOS
 https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-#EXTINF:-1 tvg-logo="" group-title="",DINO E SUAS PREZEPADAS
-https://www.googleapis.com/drive/v3/files/1fipuLiCV6qgJDcXNa8a-Rccxkuy2BwO7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
-#EXTINF:-1 tvg-logo="" group-title="",CAVERNA DO DRAGAO 24H
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663572649/ei/ScYnY-iOMvKh4dUPgKGm8AM/ip/45.179.28.252/id/V966lVbs6a0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOESZ2k5L2Pj8WekwJZA_5j5zxrp49M11vL7Om5OdaZCAiA5bPeG6HYydYVLovD5WuMHM44o-brAb3WVBrohNPNpGA%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",OS SIMPSON 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663579269/ei/JeAnY-T1FNTs1AH9k464Bw/ip/45.179.28.252/id/-GeR_AMFWdo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANuy4djT2irZu2cRdcj50p6qAVk9Ab83x1TPfZtng28KAiEA-Z-cj0OZUToiYxyp2XpzYwLq3ziSfjd_hA7NocKBFP8%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",A FAZENDA 24H 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663579462/ei/5uAnY5KdGNPnwgTClqy4Bw/ip/45.179.28.252/id/zvS_znwvXRU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSll3eVOlgLa50h6zD9h0htsodutGbohtFn9NVjYBMq4CIQD7f4eP4vNNLZhwjacFUH-DboW13AITYb6LWlzJAsRFqQ%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",PEPPA PIG
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663581664/ei/gOknY4mWEonKxAS6vbiQDg/ip/45.179.28.252/id/6xBFTOVef2M.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNyRbu1h2h-XqCFZOixvip8XArgdYk58jFzX6zC61ayECIQDRgK4mn0bpR8WXa-AddUdEarDV1ElmhESx2Fk_WMTLBQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",MAX 1
+https://live.embedflix.net/p2p/hbomax5/chunks.m3u8?nimblesessionid=656080&wmsAuthSign=c2VydmVyX3RpbWU9OS8xOS8yMDIyIDI6Mjk6NTMgUE0maGFzaF92YWx1ZT1nakc0c2tKOVY1QkM0a2ZLREhjdVpnPT0mdmFsaWRtaW51dGVzPTkw
