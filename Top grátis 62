@@ -486,7 +486,7 @@ http://168.205.87.198:8555/live/aleixo/123456/143.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ANIMES
 http://168.205.87.198:8555/live/aleixo/123456/146.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CHAVES
-http://168.205.87.198:8555/live/aleixo/123456/159.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663578764/ei/LN4nY6fbMZCR4dUP-rad4AY/ip/45.179.28.252/id/N_sGvxLsG7k.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPpgWo2XXlPJ8QXF3y0JEG37H9QDpgGLsFLp1meJ5oo4CIQDnkkCzc22tXBlTbWfkBoxZVfjNYvJlBUI7C0ml-m0B_Q%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SERIES CLASSICAS
 http://168.205.87.198:8555/live/aleixo/123456/160.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",
@@ -630,3 +630,9 @@ https://www.googleapis.com/drive/v3/files/1hNG3X7lkt4aYg_R_wAxTRjxEaLUcn3EU?alt=
 https://www.googleapis.com/drive/v3/files/1fipuLiCV6qgJDcXNa8a-Rccxkuy2BwO7?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
 #EXTINF:-1 tvg-logo="" group-title="",CAVERNA DO DRAGAO 24H
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663572649/ei/ScYnY-iOMvKh4dUPgKGm8AM/ip/45.179.28.252/id/V966lVbs6a0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOESZ2k5L2Pj8WekwJZA_5j5zxrp49M11vL7Om5OdaZCAiA5bPeG6HYydYVLovD5WuMHM44o-brAb3WVBrohNPNpGA%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",OS SIMPSON 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663579269/ei/JeAnY-T1FNTs1AH9k464Bw/ip/45.179.28.252/id/-GeR_AMFWdo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANuy4djT2irZu2cRdcj50p6qAVk9Ab83x1TPfZtng28KAiEA-Z-cj0OZUToiYxyp2XpzYwLq3ziSfjd_hA7NocKBFP8%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",A FAZENDA 24H 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663579462/ei/5uAnY5KdGNPnwgTClqy4Bw/ip/45.179.28.252/id/zvS_znwvXRU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgSll3eVOlgLa50h6zD9h0htsodutGbohtFn9NVjYBMq4CIQD7f4eP4vNNLZhwjacFUH-DboW13AITYb6LWlzJAsRFqQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",PEPPA PIG
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663581664/ei/gOknY4mWEonKxAS6vbiQDg/ip/45.179.28.252/id/6xBFTOVef2M.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgNyRbu1h2h-XqCFZOixvip8XArgdYk58jFzX6zC61ayECIQDRgK4mn0bpR8WXa-AddUdEarDV1ElmhESx2Fk_WMTLBQ%3D%3D/file/index.m3u8
