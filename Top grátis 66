@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS",TOONCAST
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=10578841&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDY6MDc6MzEgQU0maGFzaF92YWx1ZT03MjB6MmZFbHQ2UFFvd1VZNWRteUVRPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://95.141.37.245:8081/loadbalance/viva/chunks.m3u8?nimblesessionid=10866874&wmsAuthSign=c2VydmVyX3RpbWU9Ny82LzIwMjIgMTI6MDI6MjAgQU0maGFzaF92YWx1ZT12NHVUakJ6WW9LV3hrbjI0MHhpcGd3PT0mdmFsaWRtaW51dGVzPTIw
+http://cdn.tvwebplay.top:80/live/teste123/teste123/350.ts
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
 http://195.181.169.42:80/live/luciano196/luciano196/36997.ts?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQVVDQ1STUAWElRFaFpTEg4aUlYCAA8BVxYfEkwNCFFBDFICAlVUVFBYBQUbEUdZUBpZRgcOBwdaFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgYGUAURHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYWRxEcGg0WaxFTEEBGAAAPBhMTDRUDFRwWVQIcbVtYWgxRUERRCwtHQQxBBRZJQw8MD1hDWEFoQF1cQV4QCQ8FUAYBEkU=
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
@@ -148,8 +148,8 @@ http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
 http://210.210.155.35:80/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
-http://stla-server4.b-cdn.net:80/live/discoverychannel/chunks.m3u8?token=1656050768_8b9983d07e7dcbf33a014db4ecb0e3981414737f
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY FHD
+http://hubby.fun:80/MixTv2022/i3hvtXbkz6/23009
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY tv on Brasil 
 http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
@@ -636,3 +636,5 @@ http://server-shd03.lionflixapp.xyz:80/token/SHD3/128798/1x2.mp4
 http://server-shd03.lionflixapp.xyz:80/token/SHD3/128798/1x3.mp4
 #EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
 https://www.googleapis.com/drive/v3/files/121OwX_MoDMyQn0gvupDY4qgKT6iKYfer?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z 
+https://www.googleapis.com/drive/v3/files/10_wCKOIkYuLhpbCgOLWxcsFPelaheiDq?alt=media&key=AIzaSyAx3YrQ8Swm-93_bs5g4Prtpatg1nTH6PY
