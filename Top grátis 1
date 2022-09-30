@@ -11,6 +11,8 @@ http://187.85.237.3:8220/ipvt_004
 http://187.85.237.3:8220/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
 http://191.37.250.169:8801/live/NSC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
+http://geo-aws.tvcast.xyz:80/hls/s:51.15.52.211/globorj_bc15c774_0dd3e2915b8b62e4171b7fe29429b92c906a8523/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
 http://cdn.tvwebplay.top:80/maiky/maiky/177
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
@@ -44,9 +46,13 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
+http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/record_3554dce5_75ff03f7f716414ce95b1515d7eb9ef427e01ba7/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="", RECORD HD
 http://cdn.tvwebplay.top:80/maiky/maiky/278
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
 http://cdn.tvwebplay.top:80/maiky/maiky/279
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE TV
+http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.68/redetv_45cbe19f_0432665dd34a3d4cf8406c800755b89c4c18afef/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AGRO BRASIL
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA TERROR
@@ -71,6 +77,8 @@ http://187.85.237.31:8825/ipvt_004
 http://cdn.tvwebplay.top:80/maiky/maiky/260
 #EXTINF:-1 tvg-logo="" group-title="",OFF
 http://cdn.tvwebplay.top:80/maiky/maiky/259
+#EXTINF:-1 tvg-logo="" group-title="",OFF
+http://geo-aws.tvcast.xyz:80/hls/s:51.15.41.121/canaloff_12f0de3d_374d7bab20831f9694372f6150180e4f89e2a3b1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
 http://cdn.tvwebplay.top:80/maiky/maiky/234
 #EXTINF:-1 tvg-logo="" group-title="",HGTV
@@ -188,6 +196,8 @@ http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTÁRIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://geo-aws.tvcast.xyz:80/hls/s:51.15.123.117/combate_ac3478d6_e88139f45aa25d5a76700f0d2d0742e9e9c746eb/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
@@ -353,7 +363,7 @@ http://200.4.96.59:8002/play/a0ez/22472001.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX
 http://200.4.96.59:8002/play/a0ez/86002009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX HD
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.161.235/cinemax_22d200f8_95700c217c0a2a8e173cdf3799af311d3bdf692e/playlist.m3u8
+http://geo-aws.tvcast.xyz:80/hls/s:51.158.161.235/cinemax_22d200f8_e7da181b580229df3d4e0f8522bd0823c52a2b28/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SONY
 http://cdn.tvwebplay.top:80/live/teste123/teste123/300.ts
 #EXTINF:-1 tvg-logo="" group-title="",SONY
@@ -388,8 +398,8 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/81.ts
 http://cdn.tvwebplay.top:80/live/teste123/teste123/497.ts
 #EXTINF:-1 tvg-logo="" group-title="",AMC FHD
 http://45.232.196.7:5000/live/AMC/720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AMC
-http://50.7.34.155:2200/BR/AMC_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+#EXTINF:-1 tvg-logo="" group-title="",AMC SD
+http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/amcbrasil_b7f5113f_7c27c0c43e48dd5dd0e9505104a411bc01ce6499/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL
 http://190.15.32.30:80/17/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
@@ -619,3 +629,5 @@ https://www.googleapis.com/drive/v3/files/10_wCKOIkYuLhpbCgOLWxcsFPelaheiDq?alt=
 http://cdn.tvwebplay.top:80/maiky/maiky/219
 #EXTINF:-1 tvg-logo="" group-title="",SKY NEW 
 http://cdn.tvwebplay.top:80/maiky/maiky/245
+#EXTINF:-1 tvg-logo="" group-title="",O RIO
+https://s-delivery27.mxdcontent.net/v/f8a4450885207e3679d3ad3171bf1af1.mp4?s=QHmIWhiMVKGXoY4LTJLhWQ&e=1664601726&_t=1664583565
