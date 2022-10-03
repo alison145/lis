@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="NOVELAS",TOONCAST
-http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=10578841&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOC8yMDIyIDY6MDc6MzEgQU0maGFzaF92YWx1ZT03MjB6MmZFbHQ2UFFvd1VZNWRteUVRPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
+http://cdn.tvwebplay.top:80/live/teste123/teste123/010.ts
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
 http://cdn.tvwebplay.top:80/live/teste123/teste123/350.ts
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
@@ -190,6 +190,8 @@ http://cdn.tvwebplay.top:80/maiky/maiky/209
 http://187.85.237.32:8825/ipvt_007
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI
 http://cdn.tvwebplay.top:80/live/teste123/teste123/238.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD
+http://cdn.tvwebplay.top:80/live/teste123/teste123/018.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TLC 
@@ -488,6 +490,8 @@ http://cdn.tvwebplay.top:80/maiky/maiky/255
 http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
+#EXTINF:-1 tvg-logo="" group-title="",BOMBERANG 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/011.ts
 #EXTINF:-1 tvg-logo="" group-title="",BOOB
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/47?token=QkRfV0JaQV5ABgEACAMAUA0DBFQDAlIIBQAIBA8AAAkLAwIOVwtSAVFBSBJDQRNQVF1uWVcXCQwFTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYCDgpPGxFRVUMDG1UGBgEHQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1ZWU0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClNTQB4=
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids z
@@ -508,6 +512,8 @@ http://cdn.tvwebplay.top:80/maiky/maiky/204
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 tvg-logo="" group-title="",TOONCAST HD 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/51?token=QkRfV0JaQV5AAVEJVFdYAVRUCQkKUQQOVAULV1wGVghcBQFQCAcGXAdBSBJDQRNQVF1uWVcXCQ0DTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQIHDQdPGxFRVUMDG1QPDgcDQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1dcW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClFdQB4=
+#EXTINF:-1 tvg-logo="" group-title="",CARTOON NETWORK 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/019.ts
 #EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
 http://190.15.32.30:80/86/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
@@ -530,6 +536,8 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa00
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/6079c1539b05aa0007a57495/572723/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",SERIES NETFLIX 
 http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137491?token=HRpcWENeFw0WVVRVBQgHUQgGBwcBDApRBVINAAcDVgJeXgQNAg8GAgIWTUcSRUcDUFhoCgcbCFUEBw0LBBtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ACAAMG0dCD1wWAxIEBwAAFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBgVRVEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVTU1UTSA==
+#EXTINF:-1 tvg-logo="" group-title="",filme clássico 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/013.ts
 #EXTINF:-1 tvg-logo="" group-title="",filme clássico 
 http://195.154.174.135:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137495?token=HRpcWENeFw0WUFYHUlUGAAlWVFtRXQpVUwENUVFSXAMAWVEPCFNUBQ0WTUcSRUcDUFhoCgcbCFUEBw0LABtHRxVdRmZZUhcNFgNDSUNFXAtUFw1SVQwCUg8ADQIFG0dCD1wWAxIEBgIDFk1HBElBA0NbVg88XVcSXlNcEA9ZEF4KFBZWXmlRUllVDwFDCxdWExkVChBJEF5ZRVVeGRUHWxJKVU1VFA8VBQVXXEMdFwVeQFkXEUAQXhVyaxAZFQBKEl1aSllZWxUOFhUWQx0XD0JqRQYQTUABVl1cQBcNRwNEFBZUUU5qVFtaDwACRVwJX0YVWUEIB1QVHBtfWlkMRglKa0lZUhcNFgVSUVYTSA==
 #EXTINF:-1 tvg-logo="" group-title="",UTV
@@ -631,3 +639,47 @@ http://cdn.tvwebplay.top:80/maiky/maiky/219
 http://cdn.tvwebplay.top:80/maiky/maiky/245
 #EXTINF:-1 tvg-logo="" group-title="",O RIO
 https://s-delivery27.mxdcontent.net/v/f8a4450885207e3679d3ad3171bf1af1.mp4?s=QHmIWhiMVKGXoY4LTJLhWQ&e=1664601726&_t=1664583565
+#EXTINF:-1 tvg-logo="" group-title="",ANIME 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/001.ts
+#EXTINF:-1 tvg-logo="" group-title="",BANANA DE PIJAMAS 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/002.ts
+#EXTINF:-1 tvg-logo="" group-title="",CARTOON NEURO
+http://cdn.tvwebplay.top:80/live/teste123/teste123/003.ts
+#EXTINF:-1 tvg-logo="" group-title="",BRANCA DE NEVE E OS 7 ANOES
+http://cdn.tvwebplay.top:80/live/teste123/teste123/004.ts
+#EXTINF:-1 tvg-logo="" group-title="",CAVALO DE FOGO
+http://cdn.tvwebplay.top:80/live/teste123/teste123/005.ts
+#EXTINF:-1 tvg-logo="" group-title="",CHAPLIN 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/006.ts
+#EXTINF:-1 tvg-logo="" group-title="",CHAVES 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/007.ts
+#EXTINF:-1 tvg-logo="" group-title="",DENIS O PIMENTINHA
+http://cdn.tvwebplay.top:80/live/teste123/teste123/014.ts
+#EXTINF:-1 tvg-logo="" group-title="",DESENHO BIBLICO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/015.ts
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL Z 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/016.ts
+#EXTINF:-1 tvg-logo="" group-title="",DRAGON BALL 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/017.ts
+#EXTINF:-1 tvg-logo="" group-title="",DiONE E DAMASCENO
+http://cdn.tvwebplay.top:80/live/teste123/teste123/020.ts
+#EXTINF:-1 tvg-logo="" group-title="",GARFILD
+http://cdn.tvwebplay.top:80/live/teste123/teste123/022.ts
+#EXTINF:-1 tvg-logo="" group-title="",DESENHO CLASSICOS
+http://cdn.tvwebplay.top:80/live/teste123/teste123/024.ts
+#EXTINF:-1 tvg-logo="" group-title="",LULUZINHA
+http://cdn.tvwebplay.top:80/live/teste123/teste123/025.ts
+#EXTINF:-1 tvg-logo="" group-title="",MARSHALL E URSO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/026.ts
+#EXTINF:-1 tvg-logo="" group-title="",DESENHO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/027.ts
+#EXTINF:-1 tvg-logo="" group-title="",CARTOON NEURO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/028.ts
+#EXTINF:-1 tvg-logo="" group-title="",#EXTINF:-1 tvg-logo="" group-title="",CARTOON NEURO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/029.ts
+#EXTINF:-1 tvg-logo="" group-title="",MORANGUINHO
+http://cdn.tvwebplay.top:80/live/teste123/teste123/030.ts
+#EXTINF:-1 tvg-logo="" group-title="",DESENHO 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/031.ts
+#EXTINF:-1 tvg-logo="" group-title="",DINOSSAUROS 
+http://cdn.tvwebplay.top:80/live/teste123/teste123/032.ts
