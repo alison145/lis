@@ -683,3 +683,7 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/030.ts
 http://cdn.tvwebplay.top:80/live/teste123/teste123/031.ts
 #EXTINF:-1 tvg-logo="" group-title="",DINOSSAUROS 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/032.ts
+#EXTINF:-1 tvg-logo="" group-title="",JOVENS PAN
+http://cdn.tvwebplay.top:80/maiky/maiky/586
+#EXTINF:-1 tvg-logo="" group-title="",CAVERNA DO DRAGÃO 
+file:///storage/8264-1711/SnapTube%20Video/Desenho%20A%20Caverna%20do%20Drag%C3%A3o%20Todos%20os%20Epis%C3%B3dios%20Completos%20Dublado%20HD(720P_HD).mp4
