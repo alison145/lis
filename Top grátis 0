@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
 http://cdn.tvwebplay.top:80/live/teste123/teste123/010.ts
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://cdn.tvwebplay.top:80/live/teste123/teste123/350.ts
+http://15.204.173.85:8080/tvonline52018/88569KKfwWcmN436346887000Bssa457866435I789124fW4574454589965468795644056F345FFR2345/62239?play2&token=QkRfV0JaQV5ABVQEBQMABlYBUwAKAlZbB1YBAlxQUF0KXgEOUAIAVwRBSBJDQRNQVF1uWVcXCQ4AUQpYFBMUSlwUaF9VEFlGU0FIEkRcDFAXCgAGBQwGDwZUAFEUExFQXUQNFAMKUlZUQUgSVU0VUEdeUFxsUVZOWwBcQwJfFFVVShVZX20HAQ8CClQSD0MFFxwTWUBFEQJcFlUNFBMDUE0UVkJUEFlGU1BdCRIZQ1ZaRV9EQUwRAhAha0MUEwRBTQNZRVhdDUZYQRBDEhlDXEZvQ1VAQUFdUw5cExoLQwkbShVbUEo8Bw0NClVTQQhaW0MTChEFERQQDlYPUUUOS2YWXlITCEFWWlNRCRJI
 #EXTINF:-1 tvg-logo="" group-title="",VIVA
 http://cdn.tvwebplay.top:80/live/teste123/teste123/351.ts
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
@@ -61,12 +61,16 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AWC CANAL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BAND SP
-http://170.82.200.35:80/band/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND
+http://lmtv.me:80//live/1667663319jen/162145/89818.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
 http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
+http://lmtv.me:80//live/1667663319jen/162145/89829.ts
+#EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
 http://168.205.87.198:8555/live/aleixo/123456/176.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
+http://lmtv.me:80//live/1667663319jen/162145/89821.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
 http://168.205.87.198:8555/live/aleixo/123456/174.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
@@ -117,7 +121,7 @@ http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
 http://phru6b.lkg1fl1pt.com:80/v3/youshi/m3_EL3INMRQYpPjqHTGoiB5OhcX_480p.m3u8?auth_id=16804528_com.global.brasiltvweb&app_ver=10101&app_id=com.global.brasiltvweb&client_ip=88.165.142.7&user_id=16804528&session_id=3xXpzhxR22h&dev_limit=1&dev_id=351563d3&main_addr=http://vdsx.glletle1.com/v3/youshi/&rst_status=0&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&expired=1649772289&token=11649EE90D24786F9859CF0C620D2DE8&media_code=m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
 #EXTINF:-1 tvg-logo="https://www.sbp.com.br/fileadmin/_processed_/5/e/csm_NAtional_Geographic_27b97cc75d.png" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
 http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSXAbs0jsNzc82QVFGi9exEjWOVVqsaENmpg&usqp=CAU" group-title="DOCUMENTÁRIO", NETGEO WILD
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", NETGEO WILD
 http://50.7.34.155:2201/BR/NatGeo_Wild_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
 http://143.244.35.170:25461/nzWAjDJurS/LyrbEXFBBg/1586?token=GkMOV0pdG18SAlBRAldfUQcGDwBRUg1VUAECAVdVAlZSAAcFDgwIVgkXGUNHFxRXAllmXVYVDgdRCFBJExAQBBM+D1IbDxtTAgcAVg1BShAXXVRREA0FAFAJV1UGUVdRTUMWX10XA0cGDA1VFk9EVxtAXEZcVlhpAFUQDFIAQVsPFApaFRdWC29RUAxVDQIQWRYJFh4VXUUUElwLRAkPTUMDD0JLVE0AEg8XUgRTUxBPFlpbR1lARB0SXEdzN0FNQwQeQlxbSgxfWxdbFhcVEE8WUEdtRVFFEEIDBFwAEUNbQ1YUFRdUBEhqVg5aDQNRF11WWkEVDhRXEkpHXAoNCBUOFGlJXF1HChcGUAxVRE8=
@@ -133,7 +137,7 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/127.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY MAX 2
 http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
-http://210.210.155.35:80/qwr9ew/s/s38/index.m3u8
+D
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY FHD
@@ -197,6 +201,7 @@ http://187.85.237.32:8825/ipvt_007
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI
 http://cdn.tvwebplay.top:80/live/teste123/teste123/238.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI HD
+http://190.20.228.124:8000/play/a03p/92853600.m3u8
 http://cdn.tvwebplay.top:80/live/teste123/teste123/018.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", HISTÓRI 2 HD
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
@@ -209,7 +214,7 @@ http://geo-aws.tvcast.xyz:80/hls/s:51.15.123.117/combate_ac3478d6_e88139f45aa25d
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://cdn.tvwebplay.top:80/maiky/maiky/626
+http://lmtv.me:80//live/1667663319jen/162145/89878.ts
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 EXTINF:-1 tvg-logo=""
@@ -236,7 +241,7 @@ http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?R
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
 http://cdn.tvwebplay.top:80/maiky/maiky/246
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
-http://190.15.32.30:80/50/tracks-v1a1/mono.m3u8
+http://supertv.io:80/1026121/1006753/100533.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SPACE 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/302.ts
 #EXTINF:-1 tvg-logo="" group-title="",SPACE
@@ -244,7 +249,7 @@ http://cdn.tvwebplay.top:80/maiky/maiky/623
 #EXTINF:-1 tvg-logo="" group-title="FILMES", SPACE HD
 http://cdn2.connectbr.com.br:80/space/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ARTE 1
-http://origin-02.nxplay.com.br:80/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+http://lmtv.me:80//live/1667663319jen/162145/89810.ts
 #EXTINF:-1 tvg-logo="" group-title="",ARTE 1
 http://187.85.237.34:8825/ipvt_003
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
@@ -261,6 +266,8 @@ http://187.85.237.8:8825/ipvt_005
 http://cdn.tvwebplay.top:80/hls/teste123/teste123/87/0c6c8e25ff605190a03d6d850c9c4487/87_127.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://cdn.tvwebplay.top:80/live/teste123/teste123/360.ts
+#EXTINF:-1 tvg-logo="" group-title="",AXN
+http://lmtv.me:80//live/1667663319jen/162145/89813.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FX
@@ -300,6 +307,8 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/420.ts
 http://187.85.237.26:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
 http://cdn.tvwebplay.top:80/live/teste123/teste123/423.ts
+#EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 4k
+http://rctv.tech:80/00005794/MF159357C/5272
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
@@ -368,8 +377,8 @@ http://190.171.101.36:80/HBO/tracks-a2/mono.m3u8
 http://23.237.190.122:25461/evasquez/ev2021fwk/182?token=HhdaAEBZEQgUAFsIVlMBAwBSBwVXV1AFBVJWAwADB15RDQYFBgAACldEThtDEEAHUQ9uXgURDwUOA00WRUADFDpcVkMJEwABBFFVARJIEBZZD1QVWwIDAA8AWQMCBlZKR0VbBRELEQoAU1IbHEZXGkQHQ1kAX2pQU0cIV1URXAgQWV5NEV5dbVIDD1heABBYElITG0NaRkQUCw9BXF9KRAdcRhNSRVYQDERQDgFVEE4SAV5CD0dHTRQLQ3ZiEUpEAE1GBF1CWl1YRFgbRBcQThILQmgTVkZARFQAWVVBRFxHBRBNEVxSSmkFDVdeAVEWWQ1fREMJFwYUHUNZX10PEgpHbRFaVREIFFRaCwZGTw==
 #EXTINF:-1 tvg-logo="" group-title="",HBO 
 http://200.4.96.59:8003/play/a023/32144039.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
-http://200.4.96.59:8002/play/a0ez/22472001.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX  
+http://lmtv.me:80//live/1667663319jen/162145/89871.ts
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX
 http://200.4.96.59:8002/play/a0ez/86002009.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX HD
@@ -705,7 +714,9 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b109600
 http://venus1.shipblackpoint.tk:80/tokeen:c4fri52c3dpoaqv12bofss/flm22/Abracadabra22022.mp4
 #EXTINF:-1 tvg-logo="" group-title="",NICKELODEON PLUTO 
 http://stitcher-ipv4.pluto.tv:80/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50e3/3063648/playlist.m3u8?terminate=false&sid=SAMSUNG-TVPLUS-1d5bd719-7488-4311-a9b3-a6d449db96c9&deviceDNT=0&advertisingId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceModel=samsung&deviceVersion=unknown&embedPartner=samsung-tvplus&samsung_app_domain=https%3A%2F%2Fwww.samsung.com%2Fus%2Fappstore%2Fapp.do%3FappId%3DG15147002586&samsung_app_name=Samsung%20TV%20Plus&serverSideAds=true&us_privacy=1YNY&appName=samsungtvplus&deviceId=%7BPSID%7D&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung&includeDeviceUA=true
-#EXTINF:-1 tvg-logo="" group-title="",BABY PLUTO 
+#EXTINF:-1 tvg-logo="" group-title="",BABY 
+http://lmtv.me:80//live/1667663319jen/162145/89815.ts
+#EXTINF:-1 tvg-logo="" group-title="",BABY 
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf000748e16f/997452/playlist.m3u8?terminate=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=true&appName=web&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1 tvg-logo="" group-title="",ANIME
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
