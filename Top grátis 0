@@ -251,6 +251,8 @@ http://187.85.237.34:8825/ipvt_003
 http://cdn.tvwebplay.top:80/maiky/maiky/244
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
 https://cdn.connectbr.com.br/lifetime/index.m3u8
+
+https://cdn.connectbr.com.br/lifetime/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME HD
 http://187.85.237.32:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",LIFETIME
@@ -719,3 +721,5 @@ http://lmtv.me:80//live/1667663319jen/162145/89815.ts
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f4fb4cf605ddf000748e16f/997452/playlist.m3u8?terminate=false&sid=6708234f-7c33-4ea1-b3ea-e27dab0bf1f1&deviceDNT=0&deviceModel=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=true&appName=web&deviceId=a575dc40-77db-11eb-bfcd-e755c619a901&appVersion=unknown&deviceType=web&deviceMake=Chrome
 #EXTINF:-1 tvg-logo="" group-title="",ANIME
 http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRYFgJBXQsBBgAADQACWgBWAwIDU1YNXVIBVgQGVA4DVlUNCwFGHhpEQBBRUl1nDQEWWQFVAgZUTUAWElRFaFpTEg4aUVcAAA8DWhYfEkwNCFFBDFICAlNTW1tUAAQbEUdZUBpZRgMLDwdbFh8SXRwRURFYAlhrAQQUCgJUFQ0RFRwWVw07Vl1aVQxQEQoaVEcYQV8QRBZfDxcPDR0VVVpDQlVMBkYIGgUCUAIRHBoHCkENQhFNFl9DIDFDHRVSS0NVWksKC1waDRYPRAcSFEYMRzxEBkdAFwQDDgRDFQ0RBxIYGg4FSmdUWwxaVlNMDQpaEBRZFgZHTUAODl9eQ1xFb0RRB0YIVkJYDkk=
+#EXTINF:-1 tvg-logo="" group-title="",CAMERA DE MA
+https://b-cam.com.br/api/cached-download-segment-by-token/video.mp4?auth=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzAxNTc3ODYsImlkIjoyODE3NjYxMjMwLCJpc3MiOiJldGFtdSJ9.INdoFD7RP1MBP7GPJdBanGEiDFpX9lPQGeOWl_9O1CY
