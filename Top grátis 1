@@ -55,8 +55,8 @@ http://cdn.tvwebplay.top:80/maiky/maiky/278
 http://cdn.tvwebplay.top:80/maiky/maiky/279
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE TV
 http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.68/redetv_45cbe19f_0432665dd34a3d4cf8406c800755b89c4c18afef/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",AGRO BRASIL
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",TV BRASIL
+http://pfsv.io:80/07720253/51853/298
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA TERROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AWC CANAL
@@ -94,7 +94,7 @@ http://cdn.tvwebplay.top:80/maiky/maiky/207
 #EXTINF:-1 tvg-logo="" group-title="",OFF HD
 http://geo-aws.tvcast.xyz:80/hls/s:51.15.104.60/canaloff_12f0de3d_9b721a68b6b513f5e901383a0628d6227c230aaa/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CURTA
-http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://lmtv.me:80//live/1667663319jen/162145/89906.ts
 #EXTINF:-1 tvg-logo="" group-title="",CURTA
 http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
@@ -134,14 +134,12 @@ http://tv.minhalista.me:80/live/FhFBsN9J9V/factoryiptv/50691.ts
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY ts
 http://cdn.tvwebplay.top:80/live/teste123/teste123/127.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY MAX 2
-http://pfsv.io:80/live/carlinhos01/carlinhos01/181.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY z
-D
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY FHD
-http://cdn.tvwebplay.top:80/live/teste123/teste123/127.ts
+http://lmtv.me:80//live/1667663319jen/162145/89914.ts
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
+http://lmtv.me:80//live/1667663319jen/162145/89915.ts
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY 
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://hubby.fun:80/MixTv2022/i3hvtXbkz6/23009
 #EXTINF:-1 tvg-logo="" group-title="",SPORT 3
@@ -149,7 +147,7 @@ http://cdn.tvwebplay.top:80/maiky/maiky/154
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
 http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
-http://190.15.32.30:80/2/tracks-v1a1/mono.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89927.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE MAX
 http://45.232.196.7:5000/live/DISCOSCI/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
@@ -159,9 +157,7 @@ http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a6
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",Smith channel
 http://168.205.87.198:8555/live/aleixo/123456/173.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
-http://axr.life:80/live/00006226/MF159357C/5189.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",A&E
-http://cdn.tvwebplay.top:80/maiky/maiky/240
+http://pfsv.io:80/07720253/51853/293
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
@@ -171,7 +167,7 @@ http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", DISCOVERY ID  
 http://pfsv.io:80/live/carlinhos01/carlinhos01/190.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO MAX
-http://45.232.196.7:5000/live/DISCTUR/720p.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89934.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO z
 http://suatela-server.b-cdn.net/live/discoveryturbo/chunks.m3u8?token=cFjUTQ5drESTatZ5koHeThiZOyx89M1X-xa-8VrfIPo&expires=1649861728
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO
@@ -181,13 +177,13 @@ http://143.244.35.146:80/HD_DISCOVERY_WORLD_ALTER/video.m3u8?token=2cbdd399e3a15
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY WOLD
 http://50.7.34.155:2201/BR/Discovery_World_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
-http://190.15.32.30:80/5/tracks-v1a1/mono.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89930.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
-http://50.7.34.155:2201/BR/Discovery_Theater_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://lmtv.me:80//live/1667663319jen/162145/89931.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
-http://189.16.194.19:8010/01/index.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89918.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
-http://189.16.194.19:8010/01/tracks-v1a1/mono.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89919.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
 http://pfsv.io:80/live/carlinhos01/carlinhos01/198.ts
 #EXTINF:-1 tvg-logo="" group-title="",O FACINANTE MUNDO DOS CORAIS
@@ -216,22 +212,21 @@ http://191.37.250.169:8801/live/CombateHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://lmtv.me:80//live/1667663319jen/162145/89878.ts
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://191.37.250.169:8801/live/CombateHD/720p.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89879.ts
 EXTINF:-1 tvg-logo=""
-group-title="SPORT",COMBATE HD
-http://cdn.tvwebplay.top:80/live/teste123/teste123/370.ts
+group-title="SPORT",COMBATE 
 #EXTINF:-1 tvg-logo="" group-title="",STAR+ FHD
 http://cdn.tvwebplay.top:80/maiky/maiky/630
 #EXTINF:-1 tvg-logo="" group-title="",STAR+ FHD
 http://cdn.tvwebplay.top:80/maiky/maiky/631
-#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
-http://190.15.32.30:80/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL
+http://pfsv.io:80/07720253/51853/292
 #EXTINF:-1 tvg-logo="" group-title="",STAR LIFE
 http://212.102.60.39:2200/BR/Star_Life-br/tracks-v1a1/mono.m3u8?token=RED_-G6wOXLDGzyYlSWh-N90Mw%3D%3D%2C1651488217.8617422156
 #EXTINF:-1 tvg-logo="" group-title="FILMES", STAR CHANNEL HD
 http://187.85.237.3:8220/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",WARNER CHANNEL HD
-http://cdn.tvwebplay.top:80/live/teste123/teste123/353.ts
+http://pfsv.io:80/07720253/51853/297
 #EXTINF:-1 tvg-logo="" group-title="FILMES", WARNER CHANNEL HD
 http://50.7.34.155:2201/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX 
@@ -269,7 +264,7 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/360.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://lmtv.me:80//live/1667663319jen/162145/89813.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
-http://cdn2.connectbr.com.br:80/axn/tracks-v1a1/mono.m3u8
+http://pfsv.io:80/07720253/51853/295
 #EXTINF:-1 tvg-logo="" group-title="",FX
 http://190.15.32.30:80/109/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FX
@@ -283,8 +278,8 @@ https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 http://cdn.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT+
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/60072798dcf437000755b4f3/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9222c482-23a9-11ec-814d-c9455e72eab8&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=bca7cae1-d7dc-4faf-a3e9-4e3ef654e13b&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
-#EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD
-http://cdn.tvwebplay.top:80/maiky/maiky/262
+#EXTINF:-1 tvg-logo="" group-title="",PARAMONT 
+http://pfsv.io:80/07720253/51853/296
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/262.ts
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
@@ -402,6 +397,8 @@ http://190.15.32.30:80/99/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL 
 http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
+http://pfsv.io:80/07720253/51853/290
+#EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL HD
 http://187.85.237.31:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL 
 http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
@@ -415,8 +412,8 @@ http://50.7.34.155:2201/BR/Universal_TV_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCn
 http://cdn.tvwebplay.top:80/live/teste123/teste123/81.ts
 #EXTINF:-1 tvg-logo="" group-title="",CANAL BRASIL 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/497.ts
-#EXTINF:-1 tvg-logo="" group-title="",AMC FHD
-http://45.232.196.7:5000/live/AMC/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",AMC
+http://pfsv.io:80/07720253/51853/294
 #EXTINF:-1 tvg-logo="" group-title="",AMC SD
 http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/amcbrasil_b7f5113f_7c27c0c43e48dd5dd0e9505104a411bc01ce6499/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",STUDIO UNIVERSAL
@@ -426,9 +423,9 @@ http://50.7.34.155:2201/BR/Studio_Universal_HD-br/tracks-a2/mono.m3u8?token=fwBl
 #EXTINF:-1 tvg-logo="" group-title="",UNIVERSAL CHANNEL
 http://187.85.237.31:8825/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL HD
-http://170.82.200.38:80/comedy/tracks-v1a1/mono.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89882.ts
 #EXTINF:-1 tvg-logo="" group-title="",COMEDY CENTRAL
-http://pfsv.io:80/live/carlinhos01/carlinhos01/106.ts
+http://lmtv.me:80//live/1667663319jen/162145/89883.ts
 #EXTINF:-1 tvg-logo="" group-title="",REDE BRASIL
 http://168.205.87.198:8555/live/aleixo
 #EXTINF:-1 tvg-logo="" group-title="",MULTISHOW 
@@ -516,7 +513,9 @@ http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=795978
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY KIDS CAST
 http://pfsv.io:80/YPgrpqyf2Y/imaginationurl.me/140
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids
-http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/43?token=QkRfV0JaQV5AVVJUVQxTUVcAVAkDA1BeAgIOVwoIA1gKUFNTBwtWVQBBSBJDQRNQVF1uWVcXCQwBTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYBAABPGxFRVUMDG1cPBQMFQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1pSUkFIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFBVtdQB4=
+http://lmtv.me:80//live/1667663319jen/162145/89922.ts
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids
+http://lmtv.me:80//live/1667663319jen/162145/89923.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL o
 http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=8148914&wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6Mjg6NDUgQU0maGFzaF92YWx1ZT1UWGdwOEtuQlVtQWJRMEZGQS9QcmN3PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
