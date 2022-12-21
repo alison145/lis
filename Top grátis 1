@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
+http://172.93.110.132:14218/
+#EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/127897
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
 http://15.204.173.85:8080/tvonline52018/88569KKfwWcmN436346887000Bssa457866435I789124fW4574454589965468795644056F345FFR2345/62239?play2&token=QkRfV0JaQV5ABVQEBQMABlYBUwAKAlZbB1YBAlxQUF0KXgEOUAIAVwRBSBJDQRNQVF1uWVcXCQ4AUQpYFBMUSlwUaF9VEFlGU0FIEkRcDFAXCgAGBQwGDwZUAFEUExFQXUQNFAMKUlZUQUgSVU0VUEdeUFxsUVZOWwBcQwJfFFVVShVZX20HAQ8CClQSD0MFFxwTWUBFEQJcFlUNFBMDUE0UVkJUEFlGU1BdCRIZQ1ZaRV9EQUwRAhAha0MUEwRBTQNZRVhdDUZYQRBDEhlDXEZvQ1VAQUFdUw5cExoLQwkbShVbUEo8Bw0NClVTQQhaW0MTChEFERQQDlYPUUUOS2YWXlITCEFWWlNRCRJI
@@ -7,16 +9,28 @@ http://15.204.173.85:8080/tvonline52018/88569KKfwWcmN436346887000Bssa457866435I7
 http://199.127.60.83:16884/
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",CNN
+http://172.93.110.132:14235/
+#EXTINF:-1 tvg-logo="" group-title="",CNN
+http://172.93.110.132:14236/
+#EXTINF:-1 tvg-logo="" group-title="",NNk
+http://172.93.110.132:14243/
+#EXTINF:-1 tvg-logo="" group-title="",NNk
+http://172.93.110.132:14244/
+#EXTINF:-1 tvg-logo="" group-title="",RECORD NEW
+http://172.93.110.132:14245/
+#EXTINF:-1 tvg-logo="" group-title="",RECORD NEW
+http://172.93.110.132:14247/
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
 http://187.85.237.3:8220/ipvt_004
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO NEW
-http://187.85.237.3:8220/ipvt_001
+http://172.93.110.132:14237/
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SC
 http://191.37.250.169:8801/live/NSC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO RJ
 http://geo-aws.tvcast.xyz:80/hls/s:51.15.52.211/globorj_bc15c774_0dd3e2915b8b62e4171b7fe29429b92c906a8523/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
-http://cdn.tvwebplay.top:80/maiky/maiky/177
+http://172.93.110.132:14100/
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO HD
 http://170.82.200.35:80/globo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP 
@@ -42,9 +56,13 @@ http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
 http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/record_3554dce5_75ff03f7f716414ce95b1515d7eb9ef427e01ba7/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
-http://cdn.tvwebplay.top:80/maiky/maiky/278
+http://172.93.110.132:14154/
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
-http://cdn.tvwebplay.top:80/maiky/maiky/279
+http://172.93.110.132:14157/
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
+http://172.93.110.132:14166/
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE BRASIL 
+http://172.93.110.132:14179/
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", REDE TV
 http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.68/redetv_45cbe19f_0432665dd34a3d4cf8406c800755b89c4c18afef/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TV BRASIL
@@ -54,23 +72,27 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AWC CANAL
 https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND
+http://172.93.110.132:14240/
+#EXTINF:-1 tvg-logo="" group-title="",BAND
 http://lmtv.me:80//live/1667663319jen/162145/89818.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
-http://45.232.196.7:5000/live/BANDSPHD/720p.m3u8
+http://172.93.110.132:14151/
 #EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
 http://lmtv.me:80//live/1667663319jen/162145/89829.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND SPORTS
 http://168.205.87.198:8555/live/aleixo/123456/176.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
-http://lmtv.me:80//live/1667663319jen/162145/89821.ts
+http://172.93.110.132:14230/
 #EXTINF:-1 tvg-logo="" group-title="",BAND NEWS
-http://168.205.87.198:8555/live/aleixo/123456/174.m3u8
+http://lmtv.me:80//live/1667663319jen/162145/89821.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",GNT 
 http://190.15.32.30:80/6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WOOHOO
-http://187.85.237.31:8825/ipvt_004
+http://172.93.110.132:14225/
+#EXTINF:-1 tvg-logo="" group-title="",WOOHOO
+http://172.93.110.132:14226/
 #EXTINF:-1 tvg-logo="" group-title="",OFF
 http://cdn.tvwebplay.top:80/maiky/maiky/260
 #EXTINF:-1 tvg-logo="" group-title="",OFF
@@ -112,7 +134,7 @@ http://190.15.32.30:80/94/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
 http://7go.xyz:8080/556799391192/xxzsaw25106/183639
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", NETGEO GEOGRAPHIC
-http://50.7.34.155:2201/BR/Nat_Geo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://7go.xyz:8080/556799391192/xxzsaw25106/18944
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", NETGEO WILD 
 http://7go.xyz:8080/556799391192/xxzsaw25106/22589
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO WILD HD
@@ -139,14 +161,14 @@ http://cdn.tvwebplay.top:80/maiky/maiky/154
 http://pfsv.io:80/07720253/51853/166
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE
 http://lmtv.me:80//live/1667663319jen/162145/89927.ts
-#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE MAX
-http://45.232.196.7:5000/live/DISCOSCI/720p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
+http://172.93.110.132:14260/
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
 http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
 http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO",Smith channel
-http://168.205.87.198:8555/live/aleixo/123456/173.m3u8
+http://172.93.110.132:14170/
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://pfsv.io:80/07720253/51853/293
 #EXTINF:-1 tvg-logo="" group-title="",A&E
@@ -155,8 +177,8 @@ http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 http://cdn.tvwebplay.top:80/live/teste123/teste123/79.ts
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", DISCOVERY ID  
-http://pfsv.io:80/live/carlinhos01/carlinhos01/190.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTÁRIO", DISCOVERY ID 
+http://172.93.110.132:14257/
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO MAX
 http://lmtv.me:80//live/1667663319jen/162145/89934.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO z
@@ -255,7 +277,7 @@ http://187.85.237.8:8825/ipvt_005
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://cdn.tvwebplay.top:80/hls/teste123/teste123/87/0c6c8e25ff605190a03d6d850c9c4487/87_127.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
-http://cdn.tvwebplay.top:80/live/teste123/teste123/360.ts
+http://7go.xyz:8080/556799391192/xxzsaw25106/18724
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://lmtv.me:80//live/1667663319jen/162145/89813.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
@@ -366,6 +388,8 @@ http://23.237.190.122:25461/evasquez/ev2021fwk/182?token=HhdaAEBZEQgUAFsIVlMBAwB
 #EXTINF:-1 tvg-logo="" group-title="",HBO 
 http://200.4.96.59:8003/play/a023/32144039.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX  
+http://7go.xyz:8080/556799391192/xxzsaw25106/18726
+#EXTINF:-1 tvg-logo="" group-title="",CINEMAX
 http://lmtv.me:80//live/1667663319jen/162145/89871.ts
 #EXTINF:-1 tvg-logo="" group-title="",CINEMAX
 http://7go.xyz:8080/556799391192/xxzsaw25106/18726
@@ -468,11 +492,9 @@ http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1210d14ae1f800
 #EXTINF:-1 tvg-logo="" group-title="",SUSPENCE
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f171d3442a0500007362f22/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",RA TIM BUM
-http://168.205.87.198:8555/live/adriana/123456/84.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",CULT
-http://168.205.87.198:8555/live/aleixo/123456/30.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",loading
-http://168.205.87.198:8555/live/aleixo/123456/142.m3u8
+http://172.93.110.132:14223/
+#EXTINF:-1 tvg-logo="" group-title="",RA TIM BUM
+http://172.93.110.132:14224/
 #EXTINF:-1 tvg-logo="" group-title="",KIDS
 http://168.205.87.198:8555/live/aleixo/123456/143.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ANIMES
@@ -499,8 +521,6 @@ http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f12151794c1800007a8ae63/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=9781a102-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=d4d4dc29-a5b3-4bb6-ba4c-83e2d0cbcfb7&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",BOMBERANG 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/011.ts
-#EXTINF:-1 tvg-logo="" group-title="",BOOB
-http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/47?token=QkRfV0JaQV5ABgEACAMAUA0DBFQDAlIIBQAIBA8AAAkLAwIOVwtSAVFBSBJDQRNQVF1uWVcXCQwFTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEFCgYCDgpPGxFRVUMDG1UGBgEHQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1ZWU0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClNTQB4=
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids z
 http://95.141.37.245:8081/loadbalance/cartoon/chunks.m3u8?nimblesessionid=7959782&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIyIDE6Mjk6NDUgQU0maGFzaF92YWx1ZT1TOFVCbWIxYTRLQm95Nk1aV25oRi9nPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY KIDS CAST
@@ -514,9 +534,11 @@ http://95.141.37.245:8081/loadbalance/bomerang/chunks.m3u8?nimblesessionid=81489
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://189.16.194.19:8010/02/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BLOBO 
-http://cdn.tvwebplay.top:80/maiky/maiky/205
+http://172.93.110.132:14219/
 #EXTINF:-1 tvg-logo="" group-title="",BLOBO 
-http://cdn.tvwebplay.top:80/maiky/maiky/204
+http://172.93.110.132:14220/
+#EXTINF:-1 tvg-logo="" group-title="",BLOBO
+http://172.93.110.132:14221/
 #EXTINF:-1 tvg-logo="" group-title="",TOON
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
 #EXTINF:-1 tvg-logo="" group-title="",TOONCAST HD 
@@ -530,9 +552,9 @@ http://187.85.237.26:8825/ipvt_006
 #EXTINF:-1 tvg-logo="" group-title="",NICK
 http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
-http://50.7.34.155:2201/BR/ZooMoo_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
+http://172.93.110.132:14228/
 #EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
-http://cdn.tvwebplay.top:80/live/teste123/teste123/354.ts
+http://172.93.110.132:14229/
 #EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
 http://cdn.tvwebplay.top:80/live/teste123/teste123/355.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
