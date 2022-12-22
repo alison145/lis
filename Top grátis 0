@@ -300,7 +300,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/22374
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT HD 
 http://7go.xyz:8080/556799391192/xxzsaw25106/18756
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
-http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+http://172.93.110.132:14361/
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
 http://190.15.32.30:80/116/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE FUN
@@ -310,7 +310,7 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/422.ts
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
 http://187.85.237.25:8825/ipvt_005
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
-http://190.15.32.30:80/118/tracks-v1a1/mono.m3u8
+http://172.93.110.132:14358/
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
 http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
@@ -324,7 +324,7 @@ http://rctv.tech:80/00005794/MF159357C/5272
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
-http://190.15.32.30:80/115/tracks-v1a1/mono.m3u8
+http://172.93.110.132:14370/
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE
 http://187.85.237.34:8825/ipvt_002
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE EMOTION
@@ -340,11 +340,11 @@ http://190.15.32.30:80/118/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
 http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",HBO
-http://7go.xyz:8080/556799391192/xxzsaw25106/22357
+http://172.93.110.132:14373/
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://7go.xyz:8080/556799391192/xxzsaw25106/22681
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://7go.xyz:8080/556799391192/xxzsaw25106/22352
+http://172.93.110.132:14376/
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
 http://7go.xyz:8080/556799391192/xxzsaw25106/18834
 #EXTINF:-1 tvg-logo="" group-title="",HBO POP
