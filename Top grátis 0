@@ -4,7 +4,7 @@ http://172.93.110.132:14218/
 #EXTINF:-1 tvg-logo="" group-title="ANIMES",TOONCAST
 http://meumd.com:80/CharleiEvangelista/qe8WCOCT/127897
 #EXTINF:-1 tvg-logo="" group-title="NOVELAS", VIVA
-http://15.204.173.85:8080/tvonline52018/88569KKfwWcmN436346887000Bssa457866435I789124fW4574454589965468795644056F345FFR2345/62239?play2&token=QkRfV0JaQV5ABVQEBQMABlYBUwAKAlZbB1YBAlxQUF0KXgEOUAIAVwRBSBJDQRNQVF1uWVcXCQ4AUQpYFBMUSlwUaF9VEFlGU0FIEkRcDFAXCgAGBQwGDwZUAFEUExFQXUQNFAMKUlZUQUgSVU0VUEdeUFxsUVZOWwBcQwJfFFVVShVZX20HAQ8CClQSD0MFFxwTWUBFEQJcFlUNFBMDUE0UVkJUEFlGU1BdCRIZQ1ZaRV9EQUwRAhAha0MUEwRBTQNZRVhdDUZYQRBDEhlDXEZvQ1VAQUFdUw5cExoLQwkbShVbUEo8Bw0NClVTQQhaW0MTChEFERQQDlYPUUUOS2YWXlITCEFWWlNRCRJI
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/viva/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",VIVA
 http://199.127.60.83:16884/
 #EXTINF:-1 tvg-logo="" group-title="",AMERICA NEW
@@ -60,7 +60,7 @@ http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/record_3554dce5_75ff03f7f71641
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
 http://172.93.110.132:14154/
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
-http://172.93.110.132:14157/
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/record/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
 https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
@@ -91,8 +91,8 @@ http://172.93.110.132:14230/
 http://lmtv.me:80//live/1667663319jen/162145/89821.ts
 #EXTINF:-1 tvg-logo="" group-title="",BAND SP
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",GNT 
-http://190.15.32.30:80/6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",FOODNETWORK
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/foodnetwork/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",WOOHOO
 http://172.93.110.132:14225/
 #EXTINF:-1 tvg-logo="" group-title="",WOOHOO
@@ -119,16 +119,16 @@ http://50.7.34.155:2200/BR/Curta_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTC
 http://pfsv.io:80/07720253/51853/289
 #EXTINF:-1 tvg-logo="" group-title="",TRUTV tv on Brasil 
 http://pfsv.io:80/07720253/51853/350
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET 
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/animalplanet/play1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
 http://lmtv.me:80//live/1667663319jen/162145/89804.ts
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
 http://7go.xyz:8080/556799391192/xxzsaw25106/18722
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
 http://lmtv.me:80//live/1667663319jen/162145/89805.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
-http://45.58.126.146:14250
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
-http://7go.xyz:8080/556799391192/xxzsaw25106/183640
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/natgeowild/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
 http://7go.xyz:8080/556799391192/xxzsaw25106/183640
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
@@ -146,7 +146,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18754
 #EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://tv.minhalista.me:80/live/FhFBsN9J9V/factoryiptv/50691.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/discoverychannel/play1.m3u8
  group-title="DOCUMENT脕RIO", DISCOVERY HD
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY ts
@@ -174,7 +174,7 @@ http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a6
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO",Smith channel
 http://172.93.110.132:14170/
 #EXTINF:-1 tvg-logo="" group-title="",A&E
-http://pfsv.io:80/07720253/51853/293
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/ae/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
@@ -205,32 +205,32 @@ http://lmtv.me:80//live/1667663319jen/162145/89919.ts
 http://pfsv.io:80/live/carlinhos01/carlinhos01/198.ts
 #EXTINF:-1 tvg-logo="" group-title="",O FACINANTE MUNDO DOS CORAIS
 http://lionflixapp.xyz:80/server/token-fhd3/?u=token/04/tt15753666.mp4
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI HD
-http://cdn.tvwebplay.top:80/maiky/maiky/238
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/history/play1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA
 HD
 http://srv.newtop.tech:80/555666/555666/2162588
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI HD MAX 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD MAX 
 http://187.85.237.32:8825/ipvt_007
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA
 http://45.58.126.146:14280
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI HD
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA HD
 http://190.20.228.124:8000/play/a03p/92853600.m3u8
 http://cdn.tvwebplay.top:80/live/teste123/teste123/018.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI 2
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://45.58.126.146:14285
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI 2
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br/h2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", HIST脫RI 2
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTRIO", HISTORIA 2
 http://cdn.connectbr.com.br:80/h2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TLC 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENT脕RIO", TLC SD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTARIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://lmtv.me:80//live/1667663319jen/162145/89879.ts
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/combate/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://lmtv.me:80//live/1667663319jen/162145/89878.ts
 #EXTINF:-1 tvg-logo="" group-title="",ESPORTS 2
@@ -260,9 +260,9 @@ http://painelvj.com.br:80/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1761453494.m3u8?R
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
 http://7go.xyz:8080/556799391192/xxzsaw25106/22585
 #EXTINF:-1 tvg-logo="" group-title="",MEGAPIX
-http://7go.xyz:8080/556799391192/xxzsaw25106/45207
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/megapix/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SPACE 
-http://cdn.tvwebplay.top:80/live/teste123/teste123/302.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/space/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",SPACE
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16750
 #EXTINF:-1 tvg-logo="" group-title="FILMES", SPACE HD
@@ -282,7 +282,7 @@ http://cdn.connectbr.com.br:80/lifetime/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXN HD
 http://187.85.237.8:8825/ipvt_005
 #EXTINF:-1 tvg-logo="" group-title="",AXN
-http://cdn.tvwebplay.top:80/hls/teste123/teste123/87/0c6c8e25ff605190a03d6d850c9c4487/87_127.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/axn/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://7go.xyz:8080/556799391192/xxzsaw25106/18724
 #EXTINF:-1 tvg-logo="" group-title="",AXN
@@ -290,14 +290,15 @@ http://lmtv.me:80//live/1667663319jen/162145/89813.ts
 #EXTINF:-1 tvg-logo="" group-title="",AXN
 http://7go.xyz:8080/556799391192/xxzsaw25106/18724
 #EXTINF:-1 tvg-logo="" group-title="",FX
-http://190.15.32.30:80/109/tracks-v1a1/mono.m3u8
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/fx/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",FX
 http://ms2.ddns.me:8802/live/FXHD/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT
-http://cdn.tvwebplay.top:80/maiky/maiky/218
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/tnt/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT SPORT 
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE http://cdn.tvwebplay.top:80/live/teste123/teste123/653.ts
+#EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/tntseries/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TNT SERIE
 http://cdn.connectbr.com.br:80/TNTSeries/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",PARAMONT+
@@ -315,7 +316,7 @@ http://50.7.34.155:2200/BR/Telecine_Fun_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCn
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
 http://cdn.tvwebplay.top:80/live/teste123/teste123/422.ts
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PIPOCA 
-http://187.85.237.25:8825/ipvt_005
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepipoca/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
 http://172.93.110.132:14358/
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE CULT
@@ -323,13 +324,13 @@ http://187.85.237.34:8825/ipvt_001
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
 http://cdn.tvwebplay.top:80/live/teste123/teste123/420.ts
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE ACTION
-http://187.85.237.26:8825/ipvt_004
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecineaction/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
 http://cdn.tvwebplay.top:80/live/teste123/teste123/423.ts
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM 4k
 http://rctv.tech:80/00005794/MF159357C/5272
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE PREMIUM
-http://187.85.237.34:8825/ipvt_002
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/telecinepremium/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE TOUCH
 http://172.93.110.132:14370/
 #EXTINF:-1 tvg-logo="" group-title="",TELECINE
@@ -351,7 +352,7 @@ http://172.93.110.132:14373/
 #EXTINF:-1 tvg-logo="" group-title="",HBO
 http://7go.xyz:8080/556799391192/xxzsaw25106/22681
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
-http://172.93.110.132:14376/
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/hbo2/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",HBO 2
 http://7go.xyz:8080/556799391192/xxzsaw25106/18834
 #EXTINF:-1 tvg-logo="" group-title="",HBO POP
@@ -547,11 +548,11 @@ http://lmtv.me:80//live/1667663319jen/162145/89922.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY kids
 http://lmtv.me:80//live/1667663319jen/162145/89923.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
-http://45.58.126.146:14207
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/disneychannel/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY CHANNEL 
 http://189.16.194.19:8010/02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",BLOBO 
-http://172.93.110.132:14219/
+#EXTINF:-1 tvg-logo="" group-title="",BLOOB
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/gloob/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BLOBO 
 http://172.93.110.132:14220/
 #EXTINF:-1 tvg-logo="" group-title="",BLOBO
@@ -561,12 +562,14 @@ http://myott.top/stream/DEKA6YA5JRN/323.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",TOONCAST HD 
 http://51.81.83.140:8080/tvonline52022/temp=cache6H=2352345435346346436365==/51?token=QkRfV0JaQV5AAVEJVFdYAVRUCQkKUQQOVAULV1wGVghcBQFQCAcGXAdBSBJDQRNQVF1uWVcXCQ0DTxsUS1QTZlACFQwTA0FIQBcNXVUXWwQDBQEHBQIHDQdPGxFRVUMDG1QPDgcDQUhABhxEVUcPVFlvVVVFXFBdEFlXFFRdTRtWCGhSVF8CCgZBXhIAF00XXENBEglbRlReTxsDUUUTWE0DFQwTA1dcW0FIElNaFFtBQkgSCRdxahBPGwRARQRXSg9YWBMIQRARQUgSWUY+R1BDRUJWVF5dQEEDQwgTTRtUB09pUl0NCgcAEFlfWxIXDxIBEh8XXldcCk0OSm4RUF1EDRQFClFdQB4=
 #EXTINF:-1 tvg-logo="" group-title="",CARTOON NETWORK 
-http://cdn.tvwebplay.top:80/live/teste123/teste123/019.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/cartoonnetwork/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",CARTOONITO 
 http://190.15.32.30:80/86/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISNEY JR
 http://187.85.237.26:8825/ipvt_006
-#EXTINF:-1 tvg-logo="" group-title="",NICK
+#EXTINF:-1 tvg-logo="" group-title="",NICKELODEON 
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/nickelodeon/play1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",NICKELODEON 
 http://cdn.connectbr.com.br:80/Nickelodeon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",ZOOMOO
 http://172.93.110.132:14228/
@@ -627,8 +630,3 @@ http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRY
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/62
 #EXTINF:-1 tvg-logo="" group-title="",FILMES CLASSICOS 
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/63
-#EXTINF:-1 tvg-logo="" group-title="",avatar o caminho d'água 
-http://fhd04-2.appmaxplus.xyz:80/api/04/tt1630029.mp4
-#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x1.mp4
-#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US
-http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x2.mp4
