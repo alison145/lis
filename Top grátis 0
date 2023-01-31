@@ -122,11 +122,11 @@ http://pfsv.io:80/07720253/51853/350
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", ANIMAL PLANET 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/animalplanet/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
-http://lmtv.me:80//live/1667663319jen/162145/89804.ts
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
 http://7go.xyz:8080/556799391192/xxzsaw25106/18722
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
 http://lmtv.me:80//live/1667663319jen/162145/89805.ts
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", ANIMAL PLANET
+http://199.127.60.83:16192/
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC 
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/natgeowild/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",NETGEO GEOGRAPHIC
@@ -630,3 +630,5 @@ http://195.181.163.140:80/series/FhFBsN9J9V/factoryiptv/76621.mp4?token=ShVfUkRY
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/62
 #EXTINF:-1 tvg-logo="" group-title="",FILMES CLASSICOS 
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/63
+#EXTINF:-1 tvg-logo="" group-title=""A LENDA DE TARZAN
+http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
