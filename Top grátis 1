@@ -632,3 +632,5 @@ http://boxtv.uniredes.com.br:80/eduardos/eduardos/62
 http://boxtv.uniredes.com.br:80/eduardos/eduardos/63
 #EXTINF:-1 tvg-logo="" group-title=""A LENDA DE TARZAN
 http://fhd01.appmaxplus.xyz:80/token/FHD1/tt0918940.mp4
+#EXTINF:-1 tvg-logo="" group-title="",RIO MATINHOS
+https://b-cam.com.br/api/cached-download-segment-by-token/video.mp4?auth=eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NzUyMTg4MjAsImlkIjoyODk1OTIzOTA5LCJpc3MiOiJldGFtdSJ9.vrYIa37wPeyJ9a9HfIveMe4nK-8-6iKKwQh4pfB9Evo
