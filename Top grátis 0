@@ -171,14 +171,14 @@ http://172.93.110.132:14260/
 http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY SIENCE 
 http://66.90.85.10:80/HD_DISCOVERY_SCIENCE_ALTER/mpegts?token=fa0d611fa4050785a68e56949ddb86d6c35b2c6f9a0373ec67c57270d2f32e07.1649112530008.94a2d48cf11e6dd073bf61c944b87d27
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO",Smith channel
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO",Smith channel
 http://172.93.110.132:14170/
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/ae/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",A&E
-http://cdn.tvwebplay.top:80/live/teste123/teste123/79.ts
+http://45.58.126.146:14293/A&E
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", DISCOVERY ID 
@@ -228,17 +228,19 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTARIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://lmtv.me:80//live/1667663319jen/162145/89879.ts
+http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
+http://lmtv.me:80//live/1667663319jen/162145/89879.ts
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/combate/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
+http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16703
+group-title="",COMBATE
 http://lmtv.me:80//live/1667663319jen/162145/89878.ts
 #EXTINF:-1 tvg-logo="" group-title="",ESPORTS 2
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16716
 #EXTINF:-1 tvg-logo="" group-title="",ESPORTS 3
 http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16725
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://xcui.vitvabc.xyz:8880/287994014629/287994014629/16703 
 #EXTINF:-1 tvg-logo="" group-title="",STAR+ FHD
 http://cdn.tvwebplay.top:80/maiky/maiky/630
 #EXTINF:-1 tvg-logo="" group-title="",STAR+ FHD
@@ -638,3 +640,19 @@ https://b-cam.com.br/api/cached-download-segment-by-token/video.mp4?auth=eyJhbGc
 https://vd197.mycdn.me/expires/1675721487043/srcIp/45.179.29.167/srcAg/CHROME_ANDROID/ms/45.136.22.5/type/1/sig/zeJChABk__U/ct/8/urls/185.226.53.6/clientType/0/zs/65/id/43397024370/video/
 #EXTINF:-1 tvg-logo="" group-title="",apocalypto
 http://fhd04-2.appmaxplus.xyz/token/FHD4/tt0472043.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x6.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x7.mp4
+#EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x8.mp4
