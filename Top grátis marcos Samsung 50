@@ -146,7 +146,7 @@ http://7go.xyz:8080/556799391192/xxzsaw25106/18754
 #EXTINF:-1 tvg-logo="" group-title="", NATUREZA AMOR
 http://service-stitcher.clusters.pluto.tv:80/stitch/hls/channel/5f1213ba0ecebc00070e170f/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=977f3000-629b-11eb-86b1-3facc9da388a&deviceVersion=unknown&appVersion=unknown&deviceType=web&deviceMake=Chrome&sid=5bf5881e-ff8d-45df-a6a2-db61d0e625a0&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=web&userId=&appName=web
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY
-http://winne.contentservidir.online.global.prod.fastly.net:80/live/discoverychannel/play1.m3u8
+http://45.58.126.146:14252/
  group-title="DOCUMENT脕RIO", DISCOVERY HD
 http://189.16.194.19:8010/06/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY ts
@@ -181,8 +181,10 @@ http://212.102.60.39:2200/BR/AE_HD-br/tracks-v1a1/mono.m3u8
 http://45.58.126.146:14293/A&E
 #EXTINF:-1 tvg-logo="" group-title="",A&E
 http://cdn.connectbr.com.br:80/AE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="DOCUMENT脕RIO", DISCOVERY ID 
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", DISCOVERY ID 
 http://172.93.110.132:14257/
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIO", DISCOVERY ID 
+http://45.58.126.146:14258/
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO MAX
 http://lmtv.me:80//live/1667663319jen/162145/89934.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY TURBO z
@@ -198,7 +200,7 @@ http://lmtv.me:80//live/1667663319jen/162145/89930.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY THEATER
 http://lmtv.me:80//live/1667663319jen/162145/89931.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
-http://lmtv.me:80//live/1667663319jen/162145/89918.ts
+http://45.58.126.146:14255/
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
 http://lmtv.me:80//live/1667663319jen/162145/89919.ts
 #EXTINF:-1 tvg-logo="" group-title="",DISCOVERY H&H
@@ -656,3 +658,55 @@ http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x6.mp4
 http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x7.mp4
 #EXTINF:-1 tvg-logo="" group-title="",VIKINGS 
 http://sh07-2.appmaxplus.xyz:80/token/SHD7/116135/1x8.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x6.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x7.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x8.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x9.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x10.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x11.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x12.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x13.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x14.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x15.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x16.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x17.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x18.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x19.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x20.mp4
+#EXTINF:-1 tvg-logo="" group-title="",MILAGRES DE JESUS 
+http://sh07-2.appmaxplus.xyz:80/token/SHD7/64411/1x21.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x1.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x2.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x3.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x4.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x5.mp4
+#EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
+http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x6.mp4
