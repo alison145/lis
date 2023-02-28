@@ -230,9 +230,8 @@ http://cdn.tvwebplay.top:80/live/teste123/teste123/650.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TLC_logo.png" group-title="DOCUMENTARIO", TLC SD
 http://ms5.ddns.me:8805/live/TLC/720p.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
-http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="",COMBATE HD 
-http://lmtv.me:80//live/1667663319jen/162145/89879.ts
+http://winne.contentservidir.online.global.prod.fastly.net:80/live/combate/play1.m3u8
+#EXTINF:-1 tvg-logo="" group-title="",COMBATE HD http://contentzord.gelderland.ga:2095/live/combate/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
 http://winne.contentservidir.online.global.prod.fastly.net:80/live/combate/play1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",COMBATE
@@ -710,3 +709,5 @@ http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x4.mp4
 http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x5.mp4
 #EXTINF:-1 tvg-logo="" group-title="",THE LAST OF US 
 http://fhd05.appmaxplus.xyz:80/token/HD8/100088/1x6.mp4
+#EXTINF:-1 tvg-logo="" group-title="",uma viagem ao infinito 
+http://impeoto2.s3.us-central-1.wasabisys.com/cdn13/UmaViagemaoInfinito.2022.mp4
