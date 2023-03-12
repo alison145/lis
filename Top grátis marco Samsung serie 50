@@ -58,7 +58,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 #EXTINF:-1 tvg-logo="" group-title="",GLOBO SP
 http://45.177.139.80:80/GLOBO_SP_TK/tracks-v1a1/mono.m3u8?token=e4a1861622b5968d6fcbde03eb2089155e4f9ccf-cb28020e5c6b126a5567f88dc10a49b0-1648457650-1648414450
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
-http://geo-aws.tvcast.xyz:80/hls/s:51.158.172.111/record_3554dce5_75ff03f7f716414ce95b1515d7eb9ef427e01ba7/playlist.m3u8
+http://lxls.mx/live/32xde7ns/08kmr0l0/119062.m3u8
 #EXTINF:-1 tvg-logo="" group-title="", RECORD HD
 http://172.93.110.132:14154/
 #EXTINF:-1 tvg-logo="" group-title="TV ABERTA", RECORD HD
